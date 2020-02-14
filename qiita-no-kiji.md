@@ -1,7 +1,9 @@
-# Subversion ��Git ��O���r�I
+# Subversion とGit を徹底比較！
 
-## �o�[�W�����Ǘ��V�X�e�����Ҍ����
+## バージョン管理システム王者決定戦
 
-Subversion��Git�A�ʂ����Ăǂ��炪���ǂ��o�[�W�����Ǘ��V�X�e���Ȃ̂���r���Ă����܂��傤
+SubversionとGit、果たしてどちらがより良いバージョン管理システムなのか比較していきましょう
 
-����ɒǉ�
+さらに追加
+
+サラサラに追加
