@@ -31,7 +31,7 @@ title: トップページ
 
 ### CSS
 
-* [ブロック要素をセンタリングする](css/block_center.html)
+* ブロック要素をセンタリングする
 * [floatを解除する](css/clear_float.html)
 * [ブロック要素の高さをmiddleにする](css/middle.html)
 * [『CSS設計の教科書』を読んだメモ](css/css_s_design.html)
