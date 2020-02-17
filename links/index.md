@@ -8,6 +8,6 @@ date: 2020-02-17
 [HTML を Markdown へ変換](https://pronama.jp/md/)  
 [Markdown用のCSS｜たけき｜note](https://note.com/takeki1967/n/ne4ef7a158946)  
 <a href="https://github.com/kidokun153/kidokun153.github.io/tree/master/links" role="button" class="btn btn-primary"><i class="fa fa-github"></i>GitHub</a>
-
+  
 ## Bootstrap
 [Umi](https://ysakasin.github.io/Umi/bootstrap-ja.html)
