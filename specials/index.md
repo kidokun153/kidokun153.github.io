@@ -1,6 +1,6 @@
 ---
-layout: links
-title: links
+layout: specials
+title: specials
 date: 2020-02-17
 ---
 ##[2020-02-17]準備中

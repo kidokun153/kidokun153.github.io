@@ -1,6 +1,6 @@
 ---
-layout: board
-title: board
+layout: books
+title: books
 date: 2020-02-17
 ---
 
