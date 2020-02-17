@@ -11,3 +11,6 @@ date: 2020-02-17
   
 ## Bootstrap
 [Umi](https://ysakasin.github.io/Umi/bootstrap-ja.html)
+  
+## HTML
+[【html】h*要素の横に要素を並べる - Qiita](https://qiita.com/kazu56/items/05fb54e7e6b69c749c33)
