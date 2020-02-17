@@ -16,7 +16,7 @@ date: 2020-02-17
 | か  | き  | く  |け |こ |
 | さ  | し  | す  |せ |そ |
 
-<table class="table table-condensed">
+<table class="table table-striped">
   <tr><th>Name</th><th>Age</th></tr>
   <tr><td>Yamada</td><td>16</td></tr>
   <tr><td>Suzuki</td><td>26</td></tr>
