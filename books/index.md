@@ -15,3 +15,10 @@ date: 2020-02-17
 | あ  | い  | う  |え |お |
 | か  | き  | く  |け |こ |
 | さ  | し  | す  |せ |そ |
+
+<table class="table table-bordered">
+  <tr><th>Name</th><th>Age</th></tr>
+  <tr><td>Yamada</td><td>16</td></tr>
+  <tr><td>Suzuki</td><td>26</td></tr>
+  <tr><td>Tanaka</td><td>36</td></tr>
+</table>
