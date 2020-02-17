@@ -1,55 +1,55 @@
 ---
 layout: default
-title: ƒgƒbƒvƒy[ƒW
+title: ãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸
 ---
 
 
-### Œ©o‚µ
+### è¦‹å‡ºã—
 
-Markdown‚ðŽg‚Á‚Ä‚Ý‚æ‚¤
+Markdownã‚’ä½¿ã£ã¦ã¿ã‚ˆã†
 ============
 
-Markdonw‚Æ‚ÍH
+Markdonwã¨ã¯ï¼Ÿ
 ------------
 
-### ˆø—p
+### å¼•ç”¨
 
->Markdowniƒ}[ƒNƒ_ƒEƒ“j‚ÍA•¶‘‚ð‹Lq‚·‚é‚½‚ß‚ÌŒy—Êƒ}[ƒNƒAƒbƒvŒ¾Œê‚Ì‚Ð‚Æ‚Â‚Å‚ ‚éB
->–{—ˆ‚ÍƒvƒŒ[ƒ“ƒeƒLƒXƒgŒ`Ž®‚ÅŽèŒy‚É‘‚¢‚½•¶‘‚©‚çHTML‚ð¶¬‚·‚é‚½‚ß‚ÉŠJ”­‚³‚ê‚½‚à‚Ì‚Å‚ ‚éB
->‚µ‚©‚µAŒ»Ý‚Å‚ÍHTML‚Ì‚Ù‚©ƒpƒ[ƒ|ƒCƒ“ƒgŒ`Ž®‚âLATEXŒ`Ž®‚Ìƒtƒ@ƒCƒ‹‚Ö•ÏŠ·‚·‚é
->ƒ\ƒtƒgƒEƒFƒAiƒRƒ“ƒo[ƒ^j‚àŠJ”­‚³‚ê‚Ä‚¢‚éB
->ŠeƒRƒ“ƒo[ƒ^‚ÌŠJ”­ŽÒ‚É‚æ‚Á‚Ä‘½—l‚ÈŠg’£‚ªŽ{‚³‚ê‚é‚½‚ßAŠeŽí‚Ì•ûŒ¾‚ª‘¶Ý‚·‚éB
-
-
-### ƒŠƒ“ƒN
-
-[Wiki:Markdown](https://ja.wikipedia.org/wiki/Markdown):Wiki‚ÌMarkdown‚Ìƒy[ƒW
-
-### ‹­’²
-
-*‚±‚±‚ªemƒ^ƒO‚Å‹­’²‚³‚ê‚Ü‚·*  
-_‚±‚±‚ªemƒ^ƒO‚Å‹­’²‚³‚ê‚Ü‚·_  
-**‚±‚±‚ªstrongƒ^ƒO‚Å‹­’²‚³‚ê‚Ü‚·**  
-__‚±‚±‚ªstrongƒ^ƒO‚Å‹­’²‚³‚ê‚Ü‚·__  
+>Markdownï¼ˆãƒžãƒ¼ã‚¯ãƒ€ã‚¦ãƒ³ï¼‰ã¯ã€æ–‡æ›¸ã‚’è¨˜è¿°ã™ã‚‹ãŸã‚ã®è»½é‡ãƒžãƒ¼ã‚¯ã‚¢ãƒƒãƒ—è¨€èªžã®ã²ã¨ã¤ã§ã‚ã‚‹ã€‚
+>æœ¬æ¥ã¯ãƒ—ãƒ¬ãƒ¼ãƒ³ãƒ†ã‚­ã‚¹ãƒˆå½¢å¼ã§æ‰‹è»½ã«æ›¸ã„ãŸæ–‡æ›¸ã‹ã‚‰HTMLã‚’ç”Ÿæˆã™ã‚‹ãŸã‚ã«é–‹ç™ºã•ã‚ŒãŸã‚‚ã®ã§ã‚ã‚‹ã€‚
+>ã—ã‹ã—ã€ç¾åœ¨ã§ã¯HTMLã®ã»ã‹ãƒ‘ãƒ¯ãƒ¼ãƒã‚¤ãƒ³ãƒˆå½¢å¼ã‚„LATEXå½¢å¼ã®ãƒ•ã‚¡ã‚¤ãƒ«ã¸å¤‰æ›ã™ã‚‹
+>ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ï¼ˆã‚³ãƒ³ãƒãƒ¼ã‚¿ï¼‰ã‚‚é–‹ç™ºã•ã‚Œã¦ã„ã‚‹ã€‚
+>å„ã‚³ãƒ³ãƒãƒ¼ã‚¿ã®é–‹ç™ºè€…ã«ã‚ˆã£ã¦å¤šæ§˜ãªæ‹¡å¼µãŒæ–½ã•ã‚Œã‚‹ãŸã‚ã€å„ç¨®ã®æ–¹è¨€ãŒå­˜åœ¨ã™ã‚‹ã€‚
 
 
-### ƒŠƒXƒg
+### ãƒªãƒ³ã‚¯
 
-- ƒtƒVƒMƒ_ƒl
-- ƒtƒVƒMƒ\ƒE
-- ƒtƒVƒMƒoƒi
+[Wiki:Markdown](https://ja.wikipedia.org/wiki/Markdown):Wikiã®Markdownã®ãƒšãƒ¼ã‚¸
+
+### å¼·èª¿
+
+*ã“ã“ãŒemã‚¿ã‚°ã§å¼·èª¿ã•ã‚Œã¾ã™*  
+_ã“ã“ãŒemã‚¿ã‚°ã§å¼·èª¿ã•ã‚Œã¾ã™_  
+**ã“ã“ãŒstrongã‚¿ã‚°ã§å¼·èª¿ã•ã‚Œã¾ã™**  
+__ã“ã“ãŒstrongã‚¿ã‚°ã§å¼·èª¿ã•ã‚Œã¾ã™__  
 
 
-### ƒe[ƒuƒ‹  
+### ãƒªã‚¹ãƒˆ
 
-| A—ñ | B—ñ | C—ñ |D—ñ|E—ñ|
+- ãƒ•ã‚·ã‚®ãƒ€ãƒ
+- ãƒ•ã‚·ã‚®ã‚½ã‚¦
+- ãƒ•ã‚·ã‚®ãƒãƒŠ
+
+
+### ãƒ†ãƒ¼ãƒ–ãƒ«  
+
+| Aåˆ— | Båˆ— | Cåˆ— |Dåˆ—|Eåˆ—|
 |-----|:---:|-----|--:|---|
-| ‚   | ‚¢  | ‚¤  |‚¦ |‚¨ |
-| ‚©  | ‚«  | ‚­  |‚¯ |‚± |
-| ‚³  | ‚µ  | ‚·  |‚¹ |‚» |
+| ã‚  | ã„  | ã†  |ãˆ |ãŠ |
+| ã‹  | ã  | ã  |ã‘ |ã“ |
+| ã•  | ã—  | ã™  |ã› |ã |
 
 
-### ƒvƒƒOƒ‰ƒ€‚ð‹Lq‚·‚éê‡  
+### ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’è¨˜è¿°ã™ã‚‹å ´åˆ  
 
 ```rb
 num = 0
