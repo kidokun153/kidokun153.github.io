@@ -8817,3 +8817,6 @@ a.text-dark:hover, a.text-dark:focus {
 .category{
   margin-bottom: 32px;
 }
+#inline{
+  display: inline;
+}
