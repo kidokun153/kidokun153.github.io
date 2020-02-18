@@ -1,5 +1,5 @@
 ---
-layout: links
+layout: category
 title: links
 date: 2020-02-17
 ---
