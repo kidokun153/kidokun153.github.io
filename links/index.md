@@ -20,3 +20,7 @@ date: 2020-02-17
 
 ## VScode
 [VS Codeでエンコーディングを自動判別する - Qiita](https://qiita.com/hijion/items/e8b9f25d212801ca8a36)
+
+
+## Evernote
+[Evernote Web 版](https://www.evernote.com/client/)
