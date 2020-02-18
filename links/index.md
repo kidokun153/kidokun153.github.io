@@ -10,7 +10,7 @@ date: 2020-02-17
 <br>
 
 ## Bootstrap
-[Umi](https://ysakasin.github.io/Umi/bootstrap-ja.html)
+[Umi](https://ysakasin.github.io/Umi/bootstrap-ja.html)  
 <br>
 
 ## HTML
