@@ -1,9 +1,9 @@
-# Umi
+https://kidokun153.github.io
 
-[https://ysakasin.github.io/Umi/](https://ysakasin.github.io/Umi/)
+
+# Umi
 
 "Umi" は "Honoka"を元にした日本語も美しく表示できるBootstrapテーマです。
 
 
-https://kidokun153.github.io
 
