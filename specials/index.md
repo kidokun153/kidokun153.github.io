@@ -1,5 +1,5 @@
 ---
-layout: specials
+layout: item
 title: specials
 date: 2020-02-17
 ---
