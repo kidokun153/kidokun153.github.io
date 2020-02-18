@@ -1,5 +1,5 @@
 ---
-layout: archives
+layout: category
 title: archives
 date: 2020-02-17
 ---
