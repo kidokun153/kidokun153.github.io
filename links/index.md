@@ -12,6 +12,7 @@ date: 2020-02-17
 ## Bootstrap
 [Bootstrap](https://getbootstrap.com/)  
 [Umi](https://ysakasin.github.io/Umi/bootstrap-ja.html)
+[複雑なBootstrapカラムのコードはジェネレーターを使えば即マスター！](https://tonari-it.com/bootstrap_multicolumn_generator/)
 <br><br>
 
 ## HTML
