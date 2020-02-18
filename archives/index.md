@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: archive
+layout: archives
+title: archives
 date: 2020-02-17
 ---
 
-##　準備中
+## 準備中
