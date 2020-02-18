@@ -1,5 +1,5 @@
 ---
-layout: board
+layout: item
 title: board
 date: 2020-02-17
 ---
