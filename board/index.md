@@ -12,5 +12,5 @@ date: 2020-02-17
   - evernoteからのリンク
   - 別リポジトリにアップロード
   - issueにアップロードして形成されたURL
-    -[GitHubのissueを悪用して画像をホストする - Qiita](https://qiita.com/kotet/items/a2203a400136ba50b41e)
+    - [GitHubのissueを悪用して画像をホストする - Qiita](https://qiita.com/kotet/items/a2203a400136ba50b41e)
 - ページによって表示がずれる→スクロールバーの差だった。 
