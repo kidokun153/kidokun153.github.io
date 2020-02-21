@@ -8870,6 +8870,10 @@ a.text-dark:hover, a.text-dark:focus {
   padding-right: 15px;
 }
 
+.row-bottom{
+  padding-bottom: 16px;
+}
+
 /*blockquote {
 margin-top: 10px;
 margin-bottom: 10px;
