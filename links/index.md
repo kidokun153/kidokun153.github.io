@@ -9,6 +9,7 @@ date: 2020-02-17
 [HTML を Markdown へ変換](https://pronama.jp/md/)  
 [Markdown用のCSS｜たけき｜note](https://note.com/takeki1967/n/ne4ef7a158946)
 [Markdownで画像を表示する](https://gist.github.com/Tatzyr/3847141)
+[Markdownで書かれたページをGitHub Pagesで公開する - @yoshiki_utakata](http://yoshikyoto.github.io/text/git/gh_pages_md.html)
 <br><br>
 
 ## Bootstrap
