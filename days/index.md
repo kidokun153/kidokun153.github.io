@@ -7,7 +7,7 @@ date: 2020-02-17
 
 ### 20200216_mon  
 * 日テレは鬼滅の刃好きなんよ。というか鬼滅は無所属？ よくわからない
-* それに朝から日向の齊藤京子なんよ。また流れでスッキリに。バビ語は聞き飽きるほどに聞いた。
+* それに朝から日向坂の齊藤京子。また流れでスッキリに。アイドルや俳優などが番組を巡礼しながら宣伝というのは日本テレビではある。バビ語は聞き飽きるほどに聞いた。
 - [10～12月期GDP、年率6.3%減　5四半期ぶりマイナス　　:日本経済新聞](https://www.nikkei.com/article/DGXLASFL17HUX_X10C20A2000000/)
 - [東京マラソン　一般参加取りやめ、エリートのみ200人規模で実施　新型肺炎 - 毎日新聞](https://mainichi.jp/articles/20200217/k00/00m/050/106000c)
 - [指定暴力団「任侠山口組」が名称変更 「絆會」に ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200217/k10012288881000.html)
@@ -35,6 +35,12 @@ date: 2020-02-17
 * [小泉氏「反省伝わらぬことを反省」　複雑釈明も謝罪拒否：朝日新聞デジタル](https://www.asahi.com/articles/ASN2N5KG5N2NUTFK00M.html)
 * [中居正広さん ジャニーズ事務所退所し独立へ ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200221/k10012296271000.html?utm_int=all_contents_just-in_001)
 * [Twitterで見掛ける“一般人風”漫画紹介アカウント、実は電子書籍サイトのステマだった――　運営会社「誤解を招く表現となってしまった」 - ねとらぼ](https://nlab.itmedia.co.jp/nl/articles/2002/21/news094.html)
+
+##20200221_fri
+
+##20200222_sat
+
+##20200223_sun 天皇誕生日
 
 ### 他
 * [500個ものChrome拡張機能が個人情報を盗んでいたことが判明、被害者は170万人を超える - GIGAZINE](https://gigazine.net/news/20200217-chrome-extension-malware-malvertising/)
