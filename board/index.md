@@ -1,11 +1,11 @@
 ---
 layout: item
 title: board
-date: 2020-02-17
+date: 2020-02-23
 ---
 ## 2020m2w3_2020W8
 
-#### お伝え損ねた話題[23:56]
+#### お伝え損ねた話題[2020年2月23日 0時30分]
 - [米津玄師さんの曲はどれも心に残り、独特に感じます。パプリカは子どもたちも大好きです。曲なのかメロディなのか詩なのかリズムなのか、技巧として他のアーティストと異なる特筆する点があるのでしょうか？に対するNobuhiko Izumiさんの回答 - Quora](https://jp.quora.com/kome-tsu-gen-shi-san-no-kyoku-ha-dore-mo-kokoro-ni-nokori-dokutoku-ni-kanji-masu-papurika-ha-kodomo-tachi-mo-daisuki-desu-kyoku-na-no-ka-merodi-na-no-ka-shi-na-no-ka-rizumu-na-no-ka-gikou-toshite-hokano-a-teisuto-to/answers/195547435?ch=10&share=f7cdb966&srid=cQaI7)
   - 米津さんの「パプリカ」の歌詞の話
 - [24万8千2百円を払う日の朝 - YouTube](https://www.youtube.com/watch?v=UeBXdnHjhXE)
