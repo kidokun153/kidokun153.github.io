@@ -36,11 +36,13 @@ date: 2020-02-17
 * [中居正広さん ジャニーズ事務所退所し独立へ ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200221/k10012296271000.html?utm_int=all_contents_just-in_001)
 * [Twitterで見掛ける“一般人風”漫画紹介アカウント、実は電子書籍サイトのステマだった――　運営会社「誤解を招く表現となってしまった」 - ねとらぼ](https://nlab.itmedia.co.jp/nl/articles/2002/21/news094.html)
 
-##20200221_fri
+### 20200221_fri
+- [中居正広さん ジャニーズ事務所退所し独立へ | NHKニュース](https://www3.nhk.or.jp/news/html/20200221/k10012296271000.html)
+- [「法の支配 根底から揺るがす」憲法学者ら検事長定年延長批判 | NHKニュース](https://www3.nhk.or.jp/news/html/20200221/k10012296451000.html)
+- [小４女児虐待死 父親 シャワーの暴行否定 起訴内容の一部否認 | NHKニュース](https://www3.nhk.or.jp/news/html/20200221/k10012295151000.html)
+### 20200222_sat
 
-##20200222_sat
-
-##20200223_sun 天皇誕生日
+### 20200223_sun 天皇誕生日
 
 ### 他
 * [500個ものChrome拡張機能が個人情報を盗んでいたことが判明、被害者は170万人を超える - GIGAZINE](https://gigazine.net/news/20200217-chrome-extension-malware-malvertising/)
@@ -49,3 +51,5 @@ date: 2020-02-17
 * [「とある科学の超電磁砲Ｔ」＃７の放送スケジュール変更について - とある科学の超電磁砲T アニメ公式サイト](https://toaru-project.com/railgun_t/news/index00540000.html)
 * [世界一危ないドメイン｢corp.com｣が約2億円で売りに出される ｜ ギズモード・ジャパン](https://www.gizmodo.jp/2020/02/for-1-7million-you-could-own-one-of-the-most-dangerous-domains.html)
 * [スラドを運営するOSDN、全事業を（株）アピリッツに譲渡 ｜ スラド](https://srad.jp/story/20/02/17/1740214/)
+- [Twitterで見掛ける“一般人風”漫画紹介アカウント、実は電子書籍サイトのステマだった――　運営会社「誤解を招く表現となってしまった」 - ねとらぼ](https://nlab.itmedia.co.jp/nl/articles/2002/21/news094.html)
+- WBS見てると本当に経済が死にそうだなと思う
