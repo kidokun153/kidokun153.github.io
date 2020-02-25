@@ -1,7 +1,7 @@
 ---
 layout: item
 title: board
-date: 2020-02-23
+date: 2020-02-25
 ---
 ## 2020m2w3_2020W8
 
@@ -32,3 +32,10 @@ date: 2020-02-23
 - サイドバーの実装
 - bookに加えて○○の実装(hobby？)
   - drama movie anime のドロップダウンリスト
+- アーカイブは複数形か否か
+- 色使い
+- URLの命名の悩み
+  - tvdrama
+
+#### サイトの進捗
+[2020-02-25]カテゴリ整備(movies TVdrama tokushu anime music の追加) ナビバーにドロップダウンリスト追加 archiveの実装

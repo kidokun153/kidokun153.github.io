@@ -28,3 +28,7 @@ date: 2020-02-17
 
 ## Evernote
 [Evernote Web 版](https://www.evernote.com/client/)
+<br><br>
+
+## web
+[Font Awesome](https://fontawesome.com/) - 絵文字をhtmlに埋め込める
