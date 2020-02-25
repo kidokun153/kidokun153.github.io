@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: board
+title: music
 date: 2020-02-25
 ---
 [2020-02-25]準備中
