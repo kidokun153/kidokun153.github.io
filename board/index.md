@@ -40,5 +40,3 @@ date: 2020-02-25
 - URLの命名の悩み
   - tvdrama
 
-#### サイトの進捗
-[2020-02-25]カテゴリ整備(movies TVdrama tokushu anime music の追加) ナビバーにドロップダウンリスト追加 archiveの実装　フッターを作成
