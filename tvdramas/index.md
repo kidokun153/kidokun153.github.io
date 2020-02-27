@@ -15,7 +15,7 @@ date: 2020-02-25
   <tbody>
     <tr>
       <td>2020年冬</td>
-      <td><a href="アリバイ崩し承ります">むらさきのスカートの女</a></td>
+      <td><a href="https://www.tv-asahi.co.jp/alibi/">アリバイ崩し承ります</a></td>
       <td>視聴中</td>
       <td>Tver</td>
     </tr>
