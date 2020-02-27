@@ -18,7 +18,7 @@ date: 2020-02-25
       <td>2020年冬</td>
       <td><a href="https://isyuzoku.com/">異種族レビュアーズ</a></td>
       <td>視聴中</td>
-      <td>PrimeVideo</td>
+      <td><a href="https://www.amazon.co.jp/gp/video/detail/B083PRRV73/">PrimeVideo</a></td>
     </tr>
   </tbody>
   <tbody>
