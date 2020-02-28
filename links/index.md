@@ -35,7 +35,7 @@ date: 2020-02-17
 <br><br>
 
 ## Git
-[自分用 Git For Windowsのインストール手順 - Qiita](https://qiita.com/toshi-click/items/dcf3dd48fdc74c91b409)
+[自分用 Git For Windowsのインストール手順 - Qiita](https://qiita.com/toshi-click/items/dcf3dd48fdc74c91b409)<br>
 [Git for Windowsでgitコマンドが何故か動かない | 分かりやすい技術ブログ](https://sun0range.com/information-technology/git-for-windows-error)
 
 ## Windows
