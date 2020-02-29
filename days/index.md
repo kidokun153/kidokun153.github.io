@@ -35,10 +35,7 @@ date: 2020-02-29
 
 
 アリバイ崩し承ります 「＃4　山荘のアリバイ」をみた。浜辺美波がかわいい。入浴シーンあり。
-<<<<<<< HEAD
 
-=======
->>>>>>> 8c0e5636c09d6bbd92edc37bec5d7ff931a7d529
 <div class="row img-padding row-bottom">
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://imgur.com/XJrlzkm.jpg" alt="" title="サンプル"></div>
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://imgur.com/Cztm0ES.jpg" alt="" title=""></div>
@@ -158,10 +155,6 @@ NEWS23にて パラサイトのポン・ジュノ監督にインタビュー<br>
 中国・武漢で発見された謎のウイルス。感染による犠牲者は徐々に増え始め・・・？ 人類は見えない驚異にどう立ち向かうのか。未曾有の感染パニックストーリー！
 #### 大まかなストーリー展開
 序章(12/31:発生確認)→感染拡大編(1/8:WHOによる発表)→日本襲来編(1/16:国内での感染確認)→クルーズ編(2/3:クルーズ船の検疫がはじまる)→不要不急の外出編
-<<<<<<< HEAD
-
-=======
->>>>>>> 8c0e5636c09d6bbd92edc37bec5d7ff931a7d529
 
 ### 気になった記事
 [コロナショックの先に待つ4つの最悪シナリオ ｜ コロナウイルスの恐怖 ｜ 東洋経済オンライン ｜ 経済ニュースの新基準](https://toyokeizai.net/articles/-/332952)
