@@ -68,7 +68,7 @@ apexリーグでプラチナに到達
 1972年(昭和47年)佐藤総理 記者会見から出ていく 田中角栄 中国都の関係を正常化<br>
 昭和40年 1966年昭和41年)ビートルズ来日 1970年(昭和45年)大阪万博 人間自動洗濯機 
 総評として前半吉田茂についての話が多かった。後半もなんかでてきた。随所にドラマの映像が流れた。またマニアックな話(例えば、吉田の買ってた犬の名前)も多い。池上彰と昭和史を学ぶ体の番組だったがやや足りていない番組だった。
-<div class="row img-padding">
+<div class="row img-padding row-bottom">
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://imgur.com/ivIw54b.jpg" alt="" title=""></div>
   </div>
 
@@ -85,7 +85,7 @@ apexリーグでプラチナに到達
 これを聞く。 ２人でカブトムシをデュエットするのだが、音源がボーカルありだったのでaikoが2人に。
 
 Apexのランクリーグ3 ランクリーグ2と仕様が変わりモチベーションが下がる
-  <div class="row img-padding">
+  <div class="row img-padding row-bottom">
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://imgur.com/IFzQ76g.jpg" alt="" title=""></div>
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://imgur.com/ncbEFAB.jpg" alt="" title=""></div>
     <div class="col-lg-4"></div>
