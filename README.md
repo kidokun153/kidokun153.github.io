@@ -10,11 +10,11 @@ https://kidokun153.github.io
 ```html
 <!--4枚画像-->
 <div class="row img-padding row-bottom">
-  <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="hoge.jp" alt="エビフライトライアングル" title="サンプル"></div>
-  <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/4rnXtdZ.jpeg" alt="エビフライトライアングル" title="サンプル"></div>
+  <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="hoge.jp" alt="" title="サンプル"></div>
+  <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/4rnXtdZ.jpeg" alt="" title=""></div>
   <div class="col-lg-4"></div>
-  <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/4rnXtdZ.jpeg" alt="エビフライトライアングル" title="サンプル"></div>
-  <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/4rnXtdZ.jpeg" alt="エビフライトライアングル" title="サンプル"></div>
+  <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/4rnXtdZ.jpeg" alt="" title=""></div>
+  <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/4rnXtdZ.jpeg" alt="" title=""></div>
   <div class="col-lg-4"></div>
 </div>
 
@@ -27,13 +27,13 @@ https://kidokun153.github.io
 
 <!--2枚画像-->
   <div class="row img-padding">
-    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/4rnXtdZ.jpeg" alt="エビフライトライアングル" title="サンプル"></div>
-    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/4rnXtdZ.jpeg" alt="エビフライトライアングル" title="サンプル"></div>
+    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src=" alt="" title=""></div>
+    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="" alt="" title=""></div>
     <div class="col-lg-4"></div>
   </div>
 
    <!--1枚画像-->
   <div class="row img-padding">
-    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/4rnXtdZ.jpeg" alt="エビフライトライアングル" title="サンプル"></div>
+    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="" alt="" title=""></div>
   </div>
 ```
