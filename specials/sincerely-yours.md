@@ -5,58 +5,87 @@ date: 2020-03-06
 ---
 
 ## 時系列
-20191018 [田中みな実、初写真集12・13発売　こだわりのボディメイクで「触れたくなるからだ」に | ORICON NEWS](https://www.oricon.co.jp/news/2146833/)<br>
+20191018 [田中みな実、初写真集12・13発売　こだわりのボディメイクで「触れたくなるからだ」に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2146833/)<br>
 20191020 サンジャポで目標20万部と語る<br>
-20191203 [田中みな実、話題の写真集初版は大規模12万部　インスタフォロワー120万人突破 | ORICON NEWS](https://www.oricon.co.jp/news/2150143/)<br>
-12101210 [田中みな実、初写真集が発売前に10万部重版決定　累計で22万部突破 | ORICON NEWS](https://www.oricon.co.jp/news/2150667/)<br>
+20191203 [田中みな実、話題の写真集初版は大規模12万部　インスタフォロワー120万人突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2150143/)<br>
+12101210 [田中みな実、初写真集が発売前に10万部重版決定　累計で22万部突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2150667/)<br>
 20191213 発売日<br>
 20191215 サンジャポで今度は目標50万部と語る<br>
-20191217 [田中みな実、初写真集がまた重版で累計30万部突破　インスタフォロワーも140万人に | ORICON NEWS](https://www.oricon.co.jp/news/2151203/) - 重版8万部<br>
-20191220 [【オリコン】田中みな実の1st写真集が1位　「女性ソロ写真集」歴代2位の初週売上 | ORICON NEWS](https://www.oricon.co.jp/news/2151458/)<br>
-20200110 [田中みな実、初写真集1ヶ月で50万部突破　“異例”続きに担当編集者も驚き「予想を遥かに上回り…」 | ORICON NEWS](https://www.oricon.co.jp/news/2152874/) - 重版20万部<br>
-         [田中みな実1st写真集、「女性ソロ写真集」2作目の4週連続総合TOP10入り | ORICON NEWS](https://www.oricon.co.jp/news/2152836/)<br>
-20200117 [田中みな実「写真集」作品史上初、通算2度目の総合1位　4週ぶり返り咲き　 | ORICON NEWS](https://www.oricon.co.jp/news/2153318/)<br>
-20200131 [田中みな実1st写真集「女性ソロ写真集」歴代2位へ　累積売上30万部突破 | ORICON NEWS](https://www.oricon.co.jp/news/2154305/)<br>
-20200206 [田中みな実、初写真集の快進撃止まらず　重版で60万部突破＆イベント参加者は2万人へ | ORICON NEWS](https://www.oricon.co.jp/news/2154822/) - 重版10万部 <br>
-20200207 [田中みな実写真集、「写真集ジャンル累積売上」で歴代TOP3入り【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2154836/)<br>
-20200214 [田中みな実1st写真集、「写真集」作品記録更新の9週連続総合TOP10入り【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2155318/)<br>
-20200228 [田中みな実1st写真集が歴代記録更新「写真集ジャンル歴代累積売上」の歴代1位に【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2156306/)<br>
+20191217 [田中みな実、初写真集がまた重版で累計30万部突破　インスタフォロワーも140万人に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2151203/) - 重版8万部<br>
+20191220 [【オリコン】田中みな実の1st写真集が1位　「女性ソロ写真集」歴代2位の初週売上 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2151458/)<br>
+20200110 [田中みな実、初写真集1ヶ月で50万部突破　“異例”続きに担当編集者も驚き「予想を遥かに上回り…」 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2152874/) - 重版20万部<br>
+         [田中みな実1st写真集、「女性ソロ写真集」2作目の4週連続総合TOP10入り ｜ ORICON NEWS](https://www.oricon.co.jp/news/2152836/)<br>
+20200117 [田中みな実「写真集」作品史上初、通算2度目の総合1位　4週ぶり返り咲き　 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2153318/)<br>
+20200131 [田中みな実1st写真集「女性ソロ写真集」歴代2位へ　累積売上30万部突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154305/)<br>
+20200206 [田中みな実、初写真集の快進撃止まらず　重版で60万部突破＆イベント参加者は2万人へ ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154822/) - 重版10万部 <br>
+20200207 [田中みな実写真集、「写真集ジャンル累積売上」で歴代TOP3入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154836/)<br>
+20200214 [田中みな実1st写真集、「写真集」作品記録更新の9週連続総合TOP10入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2155318/)<br>
+20200228 [田中みな実1st写真集が歴代記録更新「写真集ジャンル歴代累積売上」の歴代1位に【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2156306/)<br>
 
 ## 時系列
-20191018,[田中みな実、初写真集12・13発売　こだわりのボディメイクで「触れたくなるからだ」に | ORICON NEWS](https://www.oricon.co.jp/news/2146833/)<br>
-20191020,サンジャポで目標20万部と語る<br>
-20191203,[田中みな実、話題の写真集初版は大規模12万部　インスタフォロワー120万人突破 | ORICON NEWS](https://www.oricon.co.jp/news/2150143/)<br>
-12101210,[田中みな実、初写真集が発売前に10万部重版決定　累計で22万部突破 | ORICON NEWS](https://www.oricon.co.jp/news/2150667/)<br>
-20191213,発売日<br>
-20191215,サンジャポで今度は目標50万部と語る<br>
-20191217,[田中みな実、初写真集がまた重版で累計30万部突破　インスタフォロワーも140万人に | ORICON NEWS](https://www.oricon.co.jp/news/2151203/) - 重版8万部<br>
-20191220,[【オリコン】田中みな実の1st写真集が1位　「女性ソロ写真集」歴代2位の初週売上 | ORICON NEWS](https://www.oricon.co.jp/news/2151458/)<br>
-20200110,[田中みな実、初写真集1ヶ月で50万部突破　“異例”続きに担当編集者も驚き「予想を遥かに上回り…」 | ORICON NEWS](https://www.oricon.co.jp/news/2152874/) - 重版20万部<br>[田中みな実1st写真集、「女性ソロ写真集」2作目の4週連続総合TOP10入り | ORICON NEWS](https://www.oricon.co.jp/news/2152836/)<br>
-20200117,[田中みな実「写真集」作品史上初、通算2度目の総合1位　4週ぶり返り咲き　 | ORICON NEWS](https://www.oricon.co.jp/news/2153318/)<br>
-20200131,[田中みな実1st写真集「女性ソロ写真集」歴代2位へ　累積売上30万部突破 | ORICON NEWS](https://www.oricon.co.jp/news/2154305/)<br>
-20200206,[田中みな実、初写真集の快進撃止まらず　重版で60万部突破＆イベント参加者は2万人へ | ORICON NEWS](https://www.oricon.co.jp/news/2154822/) - 重版10万部 <br>
-20200207,[田中みな実写真集、「写真集ジャンル累積売上」で歴代TOP3入り【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2154836/)<br>
-20200214,[田中みな実1st写真集、「写真集」作品記録更新の9週連続総合TOP10入り【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2155318/)<br>
-20200228,[田中みな実1st写真集が歴代記録更新「写真集ジャンル歴代累積売上」の歴代1位に【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2156306/)<br>
+日付,出来事
+20191018,[田中みな実、初写真集12・13発売　こだわりのボディメイクで「触れたくなるからだ」に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2146833/)
+20191020,サンジャポで目標20万部と語る
+20191203,[田中みな実、話題の写真集初版は大規模12万部　インスタフォロワー120万人突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2150143/)
+12101210,[田中みな実、初写真集が発売前に10万部重版決定　累計で22万部突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2150667/)
+20191213,発売日
+20191215,サンジャポで今度は目標50万部と語る
+20191217,[田中みな実、初写真集がまた重版で累計30万部突破　インスタフォロワーも140万人に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2151203/) - 重版8万部
+20191220,[【オリコン】田中みな実の1st写真集が1位　「女性ソロ写真集」歴代2位の初週売上 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2151458/)
+20200110,[田中みな実、初写真集1ヶ月で50万部突破　“異例”続きに担当編集者も驚き「予想を遥かに上回り…」 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2152874/) - 重版20万部<br>[田中みな実1st写真集、「女性ソロ写真集」2作目の4週連続総合TOP10入り ｜ ORICON NEWS](https://www.oricon.co.jp/news/2152836/)
+20200117,[田中みな実「写真集」作品史上初、通算2度目の総合1位　4週ぶり返り咲き　 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2153318/)
+20200131,[田中みな実1st写真集「女性ソロ写真集」歴代2位へ　累積売上30万部突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154305/)
+20200206,[田中みな実、初写真集の快進撃止まらず　重版で60万部突破＆イベント参加者は2万人へ ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154822/) - 重版10万部 
+20200207,[田中みな実写真集、「写真集ジャンル累積売上」で歴代TOP3入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154836/)
+20200214,[田中みな実1st写真集、「写真集」作品記録更新の9週連続総合TOP10入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2155318/)
+20200228,[田中みな実1st写真集が歴代記録更新「写真集ジャンル歴代累積売上」の歴代1位に【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2156306/)
+
+[田中みな実、初写真集12・13発売　こだわりのボディメイクで「触れたくなるからだ」に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2146833/)
 
 <table>
-<tr><td>20191018</td><td>[田中みな実、初写真集12・13発売　こだわりのボディメイクで「触れたくなるからだ」に | ORICON NEWS](https://www.oricon.co.jp/news/2146833/)<br></td></tr>
-<tr><td>20191020</td><td>サンジャポで目標20万部と語る<br></td></tr>
-<tr><td>20191203</td><td>[田中みな実、話題の写真集初版は大規模12万部　インスタフォロワー120万人突破 | ORICON NEWS](https://www.oricon.co.jp/news/2150143/)<br></td></tr>
-<tr><td>12101210</td><td>[田中みな実、初写真集が発売前に10万部重版決定　累計で22万部突破 | ORICON NEWS](https://www.oricon.co.jp/news/2150667/)<br></td></tr>
-<tr><td>20191213</td><td>発売日<br></td></tr>
-<tr><td>20191215</td><td>サンジャポで今度は目標50万部と語る<br></td></tr>
-<tr><td>20191217</td><td>[田中みな実、初写真集がまた重版で累計30万部突破　インスタフォロワーも140万人に | ORICON NEWS](https://www.oricon.co.jp/news/2151203/) - 重版8万部<br></td></tr>
-<tr><td>20191220</td><td>[【オリコン】田中みな実の1st写真集が1位　「女性ソロ写真集」歴代2位の初週売上 | ORICON NEWS](https://www.oricon.co.jp/news/2151458/)<br></td></tr>
-<tr><td>20200110</td><td>[田中みな実、初写真集1ヶ月で50万部突破　“異例”続きに担当編集者も驚き「予想を遥かに上回り…」 | ORICON NEWS](https://www.oricon.co.jp/news/2152874/) - 重版20万部<br>[田中みな実1st写真集、「女性ソロ写真集」2作目の4週連続総合TOP10入り | ORICON NEWS](https://www.oricon.co.jp/news/2152836/)<br></td></tr>
-<tr><td>20200117</td><td>[田中みな実「写真集」作品史上初、通算2度目の総合1位　4週ぶり返り咲き　 | ORICON NEWS](https://www.oricon.co.jp/news/2153318/)<br></td></tr>
-<tr><td>20200131</td><td>[田中みな実1st写真集「女性ソロ写真集」歴代2位へ　累積売上30万部突破 | ORICON NEWS](https://www.oricon.co.jp/news/2154305/)<br></td></tr>
-<tr><td>20200206</td><td>[田中みな実、初写真集の快進撃止まらず　重版で60万部突破＆イベント参加者は2万人へ | ORICON NEWS](https://www.oricon.co.jp/news/2154822/) - 重版10万部 <br></td></tr>
-<tr><td>20200207</td><td>[田中みな実写真集、「写真集ジャンル累積売上」で歴代TOP3入り【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2154836/)<br></td></tr>
-<tr><td>20200214</td><td>[田中みな実1st写真集、「写真集」作品記録更新の9週連続総合TOP10入り【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2155318/)<br></td></tr>
-<tr><td>20200228</td><td>[田中みな実1st写真集が歴代記録更新「写真集ジャンル歴代累積売上」の歴代1位に【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2156306/)<br></td></tr>
+	<tbody>
+        <tr><td>20191018</td><td>[田中みな実、初写真集12・13発売　こだわりのボディメイクで「触れたくなるからだ」に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2146833/)</td></tr>
+        <tr><td>20191020</td><td>サンジャポで目標20万部と語る</td></tr>
+        <tr><td>20191203</td><td>[田中みな実、話題の写真集初版は大規模12万部　インスタフォロワー120万人突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2150143/)</td></tr>
+        <tr><td>12101210</td><td>[田中みな実、初写真集が発売前に10万部重版決定　累計で22万部突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2150667/)</td></tr>
+        <tr><td>20191213</td><td>発売日</td></tr>
+        <tr><td>20191215</td><td>サンジャポで今度は目標50万部と語る</td></tr>
+        <tr><td>20191217</td><td>[田中みな実、初写真集がまた重版で累計30万部突破　インスタフォロワーも140万人に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2151203/) - 重版8万部</td></tr>
+        <tr><td>20191220</td><td>[【オリコン】田中みな実の1st写真集が1位　「女性ソロ写真集」歴代2位の初週売上 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2151458/)</td></tr>
+        <tr><td>20200110</td><td>[田中みな実、初写真集1ヶ月で50万部突破　“異例”続きに担当編集者も驚き「予想を遥かに上回り…」 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2152874/) - 重版20万部<br>[田中みな実1st写真集、「女性ソロ写真集」2作目の4週連続総合TOP10入り ｜ ORICON NEWS](https://www.oricon.co.jp/news/2152836/)</td></tr>
+        <tr><td>20200117</td><td>[田中みな実「写真集」作品史上初、通算2度目の総合1位　4週ぶり返り咲き　 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2153318/)</td></tr>
+        <tr><td>20200131</td><td>[田中みな実1st写真集「女性ソロ写真集」歴代2位へ　累積売上30万部突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154305/)</td></tr>
+        <tr><td>20200206</td><td>[田中みな実、初写真集の快進撃止まらず　重版で60万部突破＆イベント参加者は2万人へ ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154822/) - 重版10万部 </td></tr>
+        <tr><td>20200207</td><td>[田中みな実写真集、「写真集ジャンル累積売上」で歴代TOP3入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154836/)</td></tr>
+        <tr><td>20200214</td><td>[田中みな実1st写真集、「写真集」作品記録更新の9週連続総合TOP10入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2155318/)</td></tr>
+        <tr><td>20200228</td><td>[田中みな実1st写真集が歴代記録更新「写真集ジャンル歴代累積売上」の歴代1位に【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2156306/)</td></tr>
+	</tbody>
 </table>
 
+<table class="table table-striped">
+	<thead>
+		<tr><th>日付</th><th>出来事</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>20191018</td><td>[田中みな実、初写真集12・13発売　こだわりのボディメイクで「触れたくなるからだ」に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2146833/)</td></tr>
+		<tr><td>20191020</td><td>サンジャポで目標20万部と語る</td></tr>
+		<tr><td>20191203</td><td>[田中みな実、話題の写真集初版は大規模12万部　インスタフォロワー120万人突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2150143/)</td></tr>
+		<tr><td>12101210</td><td>[田中みな実、初写真集が発売前に10万部重版決定　累計で22万部突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2150667/)</td></tr>
+		<tr><td>20191213</td><td>発売日</td></tr>
+		<tr><td>20191215</td><td>サンジャポで今度は目標50万部と語る</td></tr>
+		<tr><td>20191217</td><td>[田中みな実、初写真集がまた重版で累計30万部突破　インスタフォロワーも140万人に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2151203/) - 重版8万部</td></tr>
+		<tr><td>20191220</td><td>[【オリコン】田中みな実の1st写真集が1位　「女性ソロ写真集」歴代2位の初週売上 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2151458/)</td></tr>
+		<tr><td>20200110</td><td>[田中みな実、初写真集1ヶ月で50万部突破　“異例”続きに担当編集者も驚き「予想を遥かに上回り…」 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2152874/) - 重版20万部<br>[田中みな実1st写真集、「女性ソロ写真集」2作目の4週連続総合TOP10入り ｜ ORICON NEWS](https://www.oricon.co.jp/news/2152836/)</td></tr>
+		<tr><td>20200117</td><td>[田中みな実「写真集」作品史上初、通算2度目の総合1位　4週ぶり返り咲き　 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2153318/)</td></tr>
+		<tr><td>20200131</td><td>[田中みな実1st写真集「女性ソロ写真集」歴代2位へ　累積売上30万部突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154305/)</td></tr>
+		<tr><td>20200206</td><td>[田中みな実、初写真集の快進撃止まらず　重版で60万部突破＆イベント参加者は2万人へ ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154822/) - 重版10万部 </td></tr>
+		<tr><td>20200207</td><td>[田中みな実写真集、「写真集ジャンル累積売上」で歴代TOP3入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154836/)</td></tr>
+		<tr><td>20200214</td><td>[田中みな実1st写真集、「写真集」作品記録更新の9週連続総合TOP10入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2155318/)</td></tr>
+		<tr><td>20200228</td><td>[田中みな実1st写真集が歴代記録更新「写真集ジャンル歴代累積売上」の歴代1位に【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2156306/)</td></tr>
+	</tbody>
+</table>
+
+<!--
 ## オリコン 週刊 ランキング 
 合計週 日付 写真集ランキング 本ランキング 売上部数 累計売上部数<br>
 01週目 2019 12月 2週目 2019年12月23日付（2019年12月09日～2019年12月15日） 1位  1位 103753部 <br>
@@ -86,26 +115,7 @@ date: 2020-03-06
 10週目,2020 02月 2週目 2020年02月24日付（2020年02月10日～2020年02月16日,1位,12位,*11567部,346778部
 11週目,2020 02月 3週目 2020年03月02日付（2020年02月17日～2020年02月23日,1位, 6位,*17841部,364619部
 12週目,2020 03月 4週目 2020年03月09日付（2020年02月24日～2020年03月01日,2位,10位,*12608部,377227部
-
-<table  class="table table-striped">
-	<thead>
-		<tr><th>合計週</th><th>日付</th><th>写真集ランキング</th><th>本ランキング</th><th>売上部数</th><th>累計売上部数</th></tr>
-	</thead>
-	<tbody>
-		<tr><td>01週目</td><td>2019 12月 2週目 2019年12月23日付（2019年12月09日～2019年12月15日</td><td>1位</td><td> 1位</td><td>103753部</td><td>-</td></tr>
-		<tr><td>02週目</td><td>2019 12月 3週目 2019年12月30日付（2019年12月16日～2019年12月22日</td><td>2位</td><td> 3位</td><td>*70870部</td><td>174623部</td></tr>
-		<tr><td>03週目</td><td>2019 12月 4週目 2020年01月06日付（2019年12月23日～2019年12月29日</td><td>1位</td><td> 6位</td><td>*32859部</td><td>207482部</td></tr>
-		<tr><td>04週目</td><td>2019 12月 5週目 2020年01月13日付（2019年12月30日～2020年01月05日</td><td>1位</td><td> 4位</td><td>*32583部</td><td>240065部</td></tr>
-		<tr><td>05週目</td><td>2020 01月 1週目 2020年01月20日付（2020年01月06日～2020年01月12日</td><td>1位</td><td> 1位</td><td>*28772部</td><td>268837部</td></tr>
-		<tr><td>06週目</td><td>2020 01月 2週目 2020年01月27日付（2020年01月13日～2020年01月19日</td><td>1位</td><td> 6位</td><td>*20310部</td><td>289147部</td></tr>
-		<tr><td>07週目</td><td>2020 01月 3週目 2020年02月03日付（2020年01月20日～2020年01月26日</td><td>3位</td><td> 8位</td><td>*19221部</td><td>308368部</td></tr>
-		<tr><td>08週目</td><td>2020 01月 4週目 2020年02月10日付（2020年01月27日～2020年02月02日</td><td>2位</td><td> 8位</td><td>*15329部</td><td>323697部</td></tr>
-		<tr><td>09週目</td><td>2020 02月 1週目 2020年02月17日付（2020年02月03日～2020年02月09日</td><td>1位</td><td>10位</td><td>*11514部</td><td>335211部</td></tr>
-		<tr><td>10週目</td><td>2020 02月 2週目 2020年02月24日付（2020年02月10日～2020年02月16日</td><td>1位</td><td>12位</td><td>*11567部</td><td>346778部</td></tr>
-		<tr><td>11週目</td><td>2020 02月 3週目 2020年03月02日付（2020年02月17日～2020年02月23日</td><td>1位</td><td> 6位</td><td>*17841部</td><td>364619部</td></tr>
-		<tr><td>12週目</td><td>2020 03月 4週目 2020年03月09日付（2020年02月24日～2020年03月01日</td><td>2位</td><td>10位</td><td>*12608部</td><td>377227部</td></tr>
-	</tbody>
-</table>
+-->
 
 <table  class="table table-striped">
 	<thead>
@@ -127,7 +137,7 @@ date: 2020-03-06
 	</tbody>
 </table>
 
-<table">
+<table>
 	<thead>
 		<tr><th>合計週</th><th>日付</th><th>写真集 <br> ランキング</th><th>本 <br> ランキング</th><th>売上部数</th><th>累計売上部数</th></tr>
 	</thead>
