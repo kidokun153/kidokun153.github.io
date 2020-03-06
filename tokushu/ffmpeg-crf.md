@@ -8,7 +8,9 @@ date: 2020-03-06
 <br>
 
 ### 元動画
-"20200214 金 mezaJK_kuji_tsutsumi.mp4" 26s 1440×810 (SAR4:3なので16:9で再生される)<br><br>
+"20200214 金 mezaJK_kuji_tsutsumi.mp4" 26s 1440×810 (SAR4:3なので16:9で再生される)<br>
+以下test.mp4とする。
+<br><br>
 
 
 ### コマンド
@@ -41,7 +43,7 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
 		<th>解像度</th>
 	</tr>
 	<tr>
-		<th>20200214 金 mezaJK_kuji_tsutsumi.mp4</th>
+		<th>test.mp4</th>
 		<td>17.3</td>
 		<td>5190</td>
 		<td>29.91</td>
@@ -105,9 +107,8 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
 	</tr>
 </table>
 
- <!--1枚画像-->
-  <div class="row img-padding　row-bottom">
-    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/pr7vM6z.png" alt="" title=""></div>
+  <div class="row img-padding row-bottom">
+    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/pr7vM6z.png" alt="data" title="data"></div>
   </div>
 
 ### キャプチャ画像(※30fpsのみ)
@@ -121,7 +122,7 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://imgur.com/WqdJGDF.jpg" alt="" title=""></div>
   <div class="col-lg-4"></div>
 </div>
-20200214 金 mezaJK_kuji_tsutsumi.mp4
+test.mp4
 
 <div class="row img-padding">
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/VsGKEED.jpg" alt="" title="サンプル"></div>
@@ -167,4 +168,4 @@ crf28
 
 #### 評価
 もともとの動画がすでに`-crf 23`でエンコードされたものであり、おそらくcrf23より小さい`-crf 20`では無駄に容量やビットレートを割くことになってしまう。`-crf 25`ではなんとなく劣化を感じるような気もするけど微妙なラインである。`-crf 28`では劣化していると確信できるが僅かな劣化だと感じる。<br>
-また`-vf bwdif`に関して30fpsと60fpsの違いもわからないうえ、60fpsだと容量を割くだけなので`-vf bwdif=1`で良い事はわかった。
+また`-vf bwdif`に関して30fpsと60fpsの違いもわからないうえ、60fpsだと容量を割くだけなので`-vf bwdif=1`で良い事はわかった。<br><br>
