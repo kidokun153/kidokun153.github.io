@@ -110,6 +110,7 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
   <div class="row img-padding row-bottom">
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/pr7vM6z.png" alt="data" title="data"></div>
   </div>
+  <br>
 
 ### キャプチャ画像(※30fpsのみ)
 0s ,1s. 15, 19s
@@ -165,6 +166,7 @@ crf25
 crf28
 
 - Bandicamによるキャプチャ ffmpegで切り出したほうが良さそう
+<br><br>
 
 #### 評価
 もともとの動画がすでに`-crf 23`でエンコードされたものであり、おそらくcrf23より小さい`-crf 20`では無駄に容量やビットレートを割くことになってしまう。`-crf 25`ではなんとなく劣化を感じるような気もするけど微妙なラインである。`-crf 28`では劣化していると確信できるが僅かな劣化だと感じる。<br>
