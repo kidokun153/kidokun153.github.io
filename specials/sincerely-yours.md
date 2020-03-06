@@ -46,3 +46,7 @@ date: 2020-03-06
 		<tr><td>12</td><td>2020 03月 4週目 <br> 2020年03月09日付（2020年02月24日～2020年03月01日</td><td>2位</td><td>10位</td><td>*12608部</td><td>377227部</td></tr>
 	</tbody>
 </table>
+
+### 参照リンク
+[田中みな実のニュース | ORICON NEWS](https://www.oricon.co.jp/prof/569567/article/news/)<br>
+[オリコンランキング | ORICON NEWS](https://www.oricon.co.jp/rank/)<br><br>
