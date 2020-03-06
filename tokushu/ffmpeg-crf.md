@@ -1,16 +1,18 @@
 ---
 layout: item
 title: tokushu
-date: 2020-02-25
+date: 2020-03-06
 ---
 
 ## ffmpegでcrfを変えつつエンコードしてみる
 
+
 ### 元動画
 20200214 金 mezaJK_kuji_tsutsumi.mp4 26s 1440×810 (SAR4:3なので16:9で再生される)
 
+
 ### コマンド
-```Batchfile
+<pre class="prettyprint">
 ffmpeg -i "%~1" -vf bwdif=1 -c:v libx264 -crf 20 -c:a copy -bsf:a aac_adtstoasc "%~dpn1-encoded-crf20.mp4"
 ffmpeg -i "%~1" -vf bwdif=1 -c:v libx264 -crf 23 -c:a copy -bsf:a aac_adtstoasc "%~dpn1-encoded-crf23.mp4"
 ffmpeg -i "%~1" -vf bwdif=1 -c:v libx264 -crf 25 -c:a copy -bsf:a aac_adtstoasc "%~dpn1-encoded-crf25.mp4"
@@ -20,7 +22,8 @@ ffmpeg -i "%~1" -vf bwdif=0 -c:v libx264 -crf 20 -c:a copy -bsf:a aac_adtstoasc 
 ffmpeg -i "%~1" -vf bwdif=0 -c:v libx264 -crf 23 -c:a copy -bsf:a aac_adtstoasc "%~dpn1-encoded-crf23-30fps.mp4"
 ffmpeg -i "%~1" -vf bwdif=0 -c:v libx264 -crf 25 -c:a copy -bsf:a aac_adtstoasc "%~dpn1-encoded-crf25-30fps.mp4"
 ffmpeg -i "%~1" -vf bwdif=0 -c:v libx264 -crf 28 -c:a copy -bsf:a aac_adtstoasc "%~dpn1-encoded-crf28-30fps.mp4"
-```
+</pre>
+
 #### `-vf bwdif`
 インターレス解除フィルタ
 (Bob Weaver Deinterlacing Filter) <br>
