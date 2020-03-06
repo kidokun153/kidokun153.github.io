@@ -6,6 +6,7 @@ date: 2020-02-17
 ## markdown
 [Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)  
 [Markdown記法一覧 - Qiita](https://qiita.com/oreo/items/82183bfbaac69971917f)  
+[自分がよく使用するMarkdownの書き方まとめ - Qiita](https://qiita.com/toyokky/items/47a5a56c20ad99e1784c)
 [HTML を Markdown へ変換](https://pronama.jp/md/)  
 [Markdown用のCSS｜たけき｜note](https://note.com/takeki1967/n/ne4ef7a158946)
 [Markdownで画像を表示する](https://gist.github.com/Tatzyr/3847141)
@@ -25,6 +26,7 @@ date: 2020-02-17
 
 ## VScode
 [VS Codeでエンコーディングを自動判別する - Qiita](https://qiita.com/hijion/items/e8b9f25d212801ca8a36)
+[VSCodeのマルチカーソル練習帳 - Qiita](https://qiita.com/TomK/items/3b1f5be07d708d7bd6c5)
 <br><br>
 
 ## Evernote
