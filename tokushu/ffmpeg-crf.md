@@ -5,10 +5,10 @@ date: 2020-03-06
 ---
 
 ## ffmpegでcrfを変えつつエンコードしてみる
-
+<br>
 
 ### 元動画
-20200214 金 mezaJK_kuji_tsutsumi.mp4 26s 1440×810 (SAR4:3なので16:9で再生される)
+20200214 金 mezaJK_kuji_tsutsumi.mp4 26s 1440×810 (SAR4:3なので16:9で再生される)<br><br>
 
 
 ### コマンド
@@ -28,11 +28,11 @@ ffmpeg -i "%~1" -vf bwdif=0 -c:v libx264 -crf 28 -c:a copy -bsf:a aac_adtstoasc 
 インターレス解除フィルタ
 (Bob Weaver Deinterlacing Filter) <br>
 based on yadif with the use of w3fdif and cubic interpolation algorithms. It accepts the following parameters<br>
-[bwdif - ffmpeg](http://underpop.online.fr/f/ffmpeg/help/bwdif.htm.gz)
+[bwdif - ffmpeg](http://underpop.online.fr/f/ffmpeg/help/bwdif.htm.gz)<br><br>
 
 
 ### 結果
-<table>
+<table class="table-bordered">
 	<tr>
 		<th>名前</th>
 		<th>容量[MB]</th>
@@ -109,14 +109,14 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
 </table>
 
  <!--1枚画像-->
-  <div class="row img-padding">
+  <div class="row img-padding　row-bottom">
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/pr7vM6z.png" alt="" title=""></div>
   </div>
 
 ### キャプチャ画像(※30fpsのみ)
 0s ,1s. 15, 19s
   <!--4枚画像-->
-<div class="row img-padding row-bottom">
+<div class="row img-padding">
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/3ffQ5iz.jpg" alt="" title="サンプル"></div>
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://imgur.com/A2xszGH.jpg" alt="" title=""></div>
   <div class="col-lg-4"></div>
@@ -126,7 +126,7 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
 </div>
 20200214 金 mezaJK_kuji_tsutsumi.mp4
 
-<div class="row img-padding row-bottom">
+<div class="row img-padding">
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/VsGKEED.jpg" alt="" title="サンプル"></div>
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/db52DYf.jpg" alt="" title=""></div>
   <div class="col-lg-4"></div>
@@ -136,7 +136,7 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
 </div>
 crf20
 
-<div class="row img-padding row-bottom">
+<div class="row img-padding">
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/icJuOTB.jpg" alt="" title="サンプル"></div>
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/yTt3X8D.jpg" alt="" title=""></div>
   <div class="col-lg-4"></div>
@@ -146,7 +146,7 @@ crf20
 </div>
 crf23
 
-<div class="row img-padding row-bottom">
+<div class="row img-padding">
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/ZQHaJQX.jpg" alt="" title=""></div>
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/pYkriJD.jpg" alt="" title=""></div>
   <div class="col-lg-4"></div>
@@ -156,7 +156,7 @@ crf23
 </div>
 crf25
 
-<div class="row img-padding row-bottom">
+<div class="row img-padding">
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/9OjSyyH.jpg" alt="" title="サンプル"></div>
   <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/gkQ6eL1.jpg" alt="https://i.imgur.com/URgyE26.jpg" title=""></div>
   <div class="col-lg-4"></div>
