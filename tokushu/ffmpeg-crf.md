@@ -8,7 +8,7 @@ date: 2020-03-06
 <br>
 
 ### 元動画
-20200214 金 mezaJK_kuji_tsutsumi.mp4 26s 1440×810 (SAR4:3なので16:9で再生される)<br><br>
+"20200214 金 mezaJK_kuji_tsutsumi.mp4" 26s 1440×810 (SAR4:3なので16:9で再生される)<br><br>
 
 
 ### コマンド
@@ -32,7 +32,7 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
 
 
 ### 結果
-<table class="table-bordered">
+<table class="table table-striped">
 	<tr>
 		<th>名前</th>
 		<th>容量[MB]</th>
@@ -41,7 +41,7 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
 		<th>解像度</th>
 	</tr>
 	<tr>
-		<th>test.mp4</th>
+		<th>20200214 金 mezaJK_kuji_tsutsumi.mp4</th>
 		<td>17.3</td>
 		<td>5190</td>
 		<td>29.91</td>
@@ -102,9 +102,6 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
 		<td>2433</td>
 		<td>29.94</td>
 		<td>1440×1080</td>
-	</tr>
-	<tr>
-		<th></th>
 	</tr>
 </table>
 
