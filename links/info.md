@@ -39,8 +39,11 @@ date: 2020-03-07
         <a href="https://www.jiji.com/">時事通信社</a></p>
     </div>
     <div class="col-lg-4 col-pad">
-        <h3>news</h3>
-        <p><a href="https://gendai.ismedia.jp/">講談社 現代ビジネス</a> - <a href="https://gendai.ismedia.jp/bluebacks">ブルーバックス</a> - <a href="https://gendai.ismedia.jp/gendai-shinsho">現代新書</a> - <a href="https://gendai.ismedia.jp/money">マネー現代</a> - <a href="https://gendai.ismedia.jp/frau">FRaU</a><br></p>
+        <h3>economy＆business</h3>
+        <li><a href="https://gendai.ismedia.jp/">講談社 現代ビジネス</a> - <a href="https://gendai.ismedia.jp/bluebacks">ブルーバックス</a> - <a href="https://gendai.ismedia.jp/gendai-shinsho">現代新書</a> - <a href="https://gendai.ismedia.jp/money">マネー現代</a> - <a href="https://gendai.ismedia.jp/frau">FRaU</a></li>
+        <li><a href="https://toyokeizai.net/">東洋経済オンライン | 経済ニュースの新基準</a></li>
+        <li><a href="https://business.nikkei.com/">日経ビジネス電子版：総合トップ</a></li>
+        <li><a href="https://xtech.nikkei.com/atcl/nxt/info/18/00001/020800003/">日経クロステックとは | 日経クロステック（xTECH）</a></li>
     </div>
 </div>
 
