@@ -4,27 +4,27 @@ title: days
 date: 2020-02-29
 ---
 
-20200301_Sun
+### 20200301_Sun
 - ひねもすハヤテ
 
-20200302_mon
+### 20200302_mon
 - [北朝鮮 日本海に向けて飛しょう体２発を発射 韓国軍 ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200302/k10012309661000.html)
 - [休校で休業、日額8330円上限に賃金全額補償　厚労省　（写真=共同）　:日本経済新聞](https://www.nikkei.com/article/DGXMZO56261080S0A300C2EA2000/)
 - [『LoL』のライアットによる新作FPS『VALORANT』（ヴァロラント）が正式発表！ 『カウンターストライク』系のタクティカルFPSとヒーローシューターの要素が融合 - ファミ通.com](https://www.famitsu.com/- news/202003/02193723.html)
 - [日銀、ETF買い過去最大の1002億円　株価上昇でも購入　　:日本経済新聞](https://www.nikkei.com/article/DGXLASFL02HF2_S0A300C2000000/)
 - 与田ちゃん……なんて姿に……。
-  <div class="row img-padding">
+  <div class="row img-padding row-bottom">
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/gqCJ4Zg.png" alt="" title=""></div>
   </div>
 
--   アリバイ崩し #5「ダウンロードのアリバイ」 ゲームをする浜辺美波
-  <div class="row img-padding">
+- アリバイ崩し #5「ダウンロードのアリバイ」 ゲームをする浜辺美波
+  <div class="row img-padding row-bottom">
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/kaKFo9R.jpg" alt="" title=""></div>
   </div>
 
 ### 20200303_tue
 - news23 月 を見る<br>トイレットペーパーデマ<br>今日から一斉休校→シングルマザーや共働き家庭に負担
-<div class="row img-padding">
+<div class="row img-padding row-bottom">
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/aQ3cTru.jpg" alt="" title=""></div>
   </div>
 
@@ -37,7 +37,7 @@ date: 2020-02-29
 >月曜から金曜まで情報番組「グッとラック！」の司会を務め、“TBSの朝の顔”となっている落語家の立川志らく（56）。志らくの妻で、19人の弟子を取り仕切る「おかみさん」の酒井莉加（38）が、弟子と不倫関係に陥っていることが、「週刊文春」の取材で分かった。
 
 ### 20200305_thu
-[17歳女子生徒、学生寮に放火容疑　「やりすぎたかな」：朝日新聞デジタル](https://www.asahi.com/articles/ASN352QFMN35ONFB001.html)
+- [17歳女子生徒、学生寮に放火容疑　「やりすぎたかな」：朝日新聞デジタル](https://www.asahi.com/articles/ASN352QFMN35ONFB001.html)
 
 ### 20200306_fri
 - crfオプションの検証及びAmatsukazeのcrf28のプロファイルを作成
