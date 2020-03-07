@@ -24,7 +24,7 @@ date: 2020-02-29
 
 ### 20200303_tue
 - news23 月 を見る<br>トイレットペーパーデマ<br>今日から一斉休校→シングルマザーや共働き家庭に負担
-<div class="row img-padding row-bottom">
+  <div class="row img-padding row-bottom">
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/aQ3cTru.jpg" alt="" title=""></div>
   </div>
 
@@ -43,7 +43,7 @@ date: 2020-02-29
 - crfオプションの検証及びAmatsukazeのcrf28のプロファイルを作成
 - 田中みな実写真集観測部 作成
 - 無観客Mステ
-<div class="row img-padding">
+  <div class="row img-padding">
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="https://i.imgur.com/Mh5c6Z6.jpg" alt="" title=""></div>
   </div>
 
