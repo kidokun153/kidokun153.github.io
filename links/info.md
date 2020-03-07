@@ -8,8 +8,9 @@ date: 2020-03-07
 
 <div class="row">
     <div class="col-lg-4 col-pad">
-        <h3>news</h3>
+        <h3>News</h3>
         <li><a href="https://news.google.com">Google ニュース</a></li>
+        <li><a href="https://news.yahoo.co.jp/">Yahoo!ニュース</a> - <a href="https://news.yahoo.co.jp/byline/">個人</a> - <a href="https://news.yahoo.co.jp/feature">特集</a></li>
         <li><a href="https://www3.nhk.or.jp/news/">NHK NEWS WEB</a></li>
         <li><a href="https://mainichi.jp/">毎日新聞</a> - <a href="https://mainichi.jp/opinion/">オピニオン</a></li>
         <li><a href="https://www.yomiuri.co.jp/">読売新聞</a> - <a href="https://www.yomiuri.co.jp/editorial/">社説</a></li>
@@ -19,16 +20,16 @@ date: 2020-03-07
         <li><a href="https://www.jiji.com/">時事通信社</a></li>
     </div>
     <div class="col-lg-4 col-pad">
-        <h3>economy＆business</h3>
+        <h3>Economy＆Business</h3>
         <li><a href="https://gendai.ismedia.jp/">講談社 現代ビジネス</a> - <a href="https://gendai.ismedia.jp/bluebacks">ブルーバックス</a> - <a href="https://gendai.ismedia.jp/gendai-shinsho">現代新書</a> - <a href="https://gendai.ismedia.jp/money">マネー現代</a> - <a href="https://gendai.ismedia.jp/frau">FRaU</a></li>
         <li><a href="https://toyokeizai.net/">東洋経済オンライン | 経済ニュースの新基準</a></li>
         <li><a href="https://business.nikkei.com/">日経ビジネス電子版：総合トップ</a></li>
         <li><a href="https://xtech.nikkei.com/atcl/nxt/info/18/00001/020800003/">日経クロステックとは | 日経クロステック（xTECH）</a></li>
     </div>
     <div class="col-lg-4 col-pad">
-        <h3 id="world">world</h3>
-        <a href="https://www.bloomberg.co.jp/">Bloomberg.co.jp</a>
-        <a href="https://www.bbc.com/japanese">BBC.com/japanese</a>
-        <a href="https://www.cnn.co.jp/">CNN.co.jp</a>
+        <h3 id="world">World</h3>
+        <li><a href="https://www.bloomberg.co.jp/">Bloomberg.co.jp</a></li>
+        <li><a href="https://www.bbc.com/japanese">BBC.com/japanese</a></li>
+        <li><a href="https://www.cnn.co.jp/">CNN.co.jp</a></li>
     </div>
 </div>
