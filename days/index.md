@@ -67,9 +67,10 @@ date: 2020-02-29
 - [楽天モバイル、4月8日に本格始動。「月2980円かけ放題&データ無制限」300万名が1年無料 - Engadget 日本版](https://japanese.engadget.com/jp-2020-03-03-2980-300-1.html)
 - [20200303 火 2300 WBS](https://www.evernote.com/l/AYoqbHU_1qtBa4EREv-PSwjkQOBzYBKKpFw/)
 - [20200306 金 0525 オタク女子 めざましテレビ](https://www.evernote.com/l/AYr_j55ieB1CH7lfZkVdNN8qi6NUA5Y9-BU/)
+- [20200303 火 2100 ニュースウオッチ9 ※大統領選2020 トランプ陣営](https://www.evernote.com/l/AYqPPgBjTgFPwLBBV83QFQhuu_nIGgXDx5E/)
 - [NEWS23さんはTwitterを使っています 「【小川彩佳よりご報告】 キャスターの小川より ご報告がございます。 詳細は、添付の画像をご覧ください。 #news23 #小川彩佳 https://t.co/JFI9YtQXbS」 / Twitter](https://twitter.com/news23_tbs/status/1233164921455562758)
 - [感染経路見えるマップ作成｜【西日本新聞ニュース】](https://www.nishinippon.co.jp/item/o/589712/) - [coromap - 新型コロナウイルスの状況マップ](https://www.coromap.info/)
 - 1万5千円の価値
 - 僕が勝てないのはモニタのせい
-- 長い夢を見ていたようだ- 
+- 長い夢を見ていたようだ
 - いろんな番組でネタを作らされるミルボ そして笑いどころ問題
