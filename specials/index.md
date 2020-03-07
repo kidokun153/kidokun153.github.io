@@ -9,3 +9,4 @@ date: 2020-02-17
 [新型コロナウィルス 2020年 2月](https://kidokun153.github.io/specials/[2020-02]COVID-19.html)<br>
 <br>
 [田中みな実写真集観測部](https://kidokun153.github.io/specials/sincerely-yours.html)
+

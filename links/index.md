@@ -32,7 +32,8 @@ date: 2020-02-17
 
 ## VScode
 [VS Codeでエンコーディングを自動判別する - Qiita](https://qiita.com/hijion/items/e8b9f25d212801ca8a36)
-[VSCodeのマルチカーソル練習帳 - Qiita](https://qiita.com/TomK/items/3b1f5be07d708d7bd6c5)
+[VSCodeのマルチカーソル練習帳 - Qiita](https://qiita.com/TomK/items/3b1f5be07d708d7bd6c5)  
+[VScodeのemmetをmarkdownで有効にする方法](https://bluebear.jp/post/vscode-emmet-markdown/)
 <br><br>
 
 ## Evernote
