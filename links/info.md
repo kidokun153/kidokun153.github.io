@@ -33,7 +33,7 @@ date: 2020-03-07
  <div class="col-xs-6">
 
 <div class="row">
-    <div class="col-xs-6">
+    <div class="col-lg-4 col-pad">
         <p><a href="https://news.google.com">Google ニュース</a><br>
         <a href="https://www3.nhk.or.jp/news/">NHK NEWS WEB</a><br>
         <a href="https://mainichi.jp/">毎日新聞</a> - <a href="https://mainichi.jp/opinion/">オピニオン</a><br>
@@ -45,7 +45,7 @@ date: 2020-03-07
         <a href="https://www.nishinippon.co.jp/">西日本新聞</a> - <a href="https://www.nishinippon.co.jp/category/column/">社説・コラム</a><br>
         <a href="https://www.jiji.com/">時事通信社</a></p>
     </div>
-    <div class="col-xs-6">
+    <div class="col-lg-4">
         <p><a href="https://gendai.ismedia.jp/">講談社 現代ビジネス</a> - <a href="https://gendai.ismedia.jp/bluebacks">ブルーバックス</a> - <a href="https://gendai.ismedia.jp/gendai-shinsho">現代新書</a> - <a href="https://gendai.ismedia.jp/money">マネー現代</a> - <a href="https://gendai.ismedia.jp/frau">FRaU</a><br></p>
     </div>
 </div>
