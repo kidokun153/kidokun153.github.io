@@ -4,39 +4,19 @@ title: links
 date: 2020-03-07
 ---
 
-
-## news
-[Google ニュース](https://news.google.com)<br>
-[NHK NEWS WEB](https://www3.nhk.or.jp/news/)<br>
-[毎日新聞](https://mainichi.jp/) - [オピニオン](https://mainichi.jp/opinion/)<br>
-[読売新聞](https://www.yomiuri.co.jp/) - [社説](https://www.yomiuri.co.jp/editorial/)<br>
-[朝日新聞デジタル：朝日新聞社のニュースサイト](https://www.asahi.com/) - 
-[社説](https://www.asahi.com/rensai/list.html?id=16)<br>
-[産経ニュース](https://www.sankei.com/) - [主張](https://www.sankei.com/column/newslist/editorial-n1.html?cx_fixedtopics=true&cx_wid=d5ac4456c4d5baa6a785782ef4e98f6eb01bb384)<br>
-[日本経済新聞](https://www.nikkei.com/) - [社説](https://www.nikkei.com/opinion/editorial/)
-[西日本新聞](https://www.nishinippon.co.jp/) - [社説・コラム](https://www.nishinippon.co.jp/category/column/)<br>
-[時事通信社](https://www.jiji.com/)
-
-
-## world
-[Bloomberg.co.jp](https://www.bloomberg.co.jp/)<br>
-[BBC.com/japanese](https://www.bbc.com/japanese)<br>
-[CNN.co.jp](https://www.cnn.co.jp/)<br>
-
+## 情報収集
 
 <div class="row">
     <div class="col-lg-4 col-pad">
         <h3>news</h3>
-        <p><a href="https://news.google.com">Google ニュース</a><br>
-        <a href="https://www3.nhk.or.jp/news/">NHK NEWS WEB</a><br>
-        <a href="https://mainichi.jp/">毎日新聞</a> - <a href="https://mainichi.jp/opinion/">オピニオン</a><br>
-        <a href="https://www.yomiuri.co.jp/">読売新聞</a> - <a href="https://www.yomiuri.co.jp/editorial/">社説</a><br>
-        <a href="https://www.asahi.com/">朝日新聞デジタル</a> - 
-        <a href="https://www.asahi.com/rensai/list.html?id=16">社説</a><br>
-        <a href="https://www.sankei.com/">産経ニュース</a> - <a href="https://www.sankei.com/column/newslist/editorial-n1.html?cx_fixedtopics=true&cx_wid=d5ac4456c4d5baa6a785782ef4e98f6eb01bb384">主張</a><br>
-        <a href="https://www.nikkei.com/">日本経済新聞</a> - <a href="https://www.nikkei.com/opinion/editorial/">社説</a><br>
-        <a href="https://www.nishinippon.co.jp/">西日本新聞</a> - <a href="https://www.nishinippon.co.jp/category/column/">社説・コラム</a><br>
-        <a href="https://www.jiji.com/">時事通信社</a></p>
+        <li><a href="https://news.google.com">Google ニュース</a></li>
+        <li><a href="https://www3.nhk.or.jp/news/">NHK NEWS WEB</a></li>
+        <li><a href="https://mainichi.jp/">毎日新聞</a> - <a href="https://mainichi.jp/opinion/">オピニオン</a></li>
+        <li><a href="https://www.yomiuri.co.jp/">読売新聞</a> - <a href="https://www.yomiuri.co.jp/editorial/">社説</a></li>
+        <li><a href="https://www.sankei.com/">産経ニュース</a> - <a href="https://www.sankei.com/column/newslist/editorial-n1.html?cx_fixedtopics=true&cx_wid=d5ac4456c4d5baa6a785782ef4e98f6eb01bb384">主張</a></li>
+        <li><a href="https://www.nikkei.com/">日本経済新聞</a> - <a href="https://www.nikkei.com/opinion/editorial/">社説</a></li>
+        <li><a href="https://www.nishinippon.co.jp/">西日本新聞</a> - <a href="https://www.nishinippon.co.jp/category/column/">社説・コラム</a></li>
+        <li><a href="https://www.jiji.com/">時事通信社</a></li>
     </div>
     <div class="col-lg-4 col-pad">
         <h3>economy＆business</h3>
@@ -45,11 +25,10 @@ date: 2020-03-07
         <li><a href="https://business.nikkei.com/">日経ビジネス電子版：総合トップ</a></li>
         <li><a href="https://xtech.nikkei.com/atcl/nxt/info/18/00001/020800003/">日経クロステックとは | 日経クロステック（xTECH）</a></li>
     </div>
+    <div class="col-lg-4 col-pad">
+        <h3 id="world">world</h3>
+        <a href="https://www.bloomberg.co.jp/">Bloomberg.co.jp</a>
+        <a href="https://www.bbc.com/japanese">BBC.com/japanese</a>
+        <a href="https://www.cnn.co.jp/">CNN.co.jp</a>
+    </div>
 </div>
-
-
-
-
-## economy ＆ business
-[講談社 現代ビジネス](https://gendai.ismedia.jp/) - [ブルーバックス](https://gendai.ismedia.jp/bluebacks) - [現代新書](https://gendai.ismedia.jp/gendai-shinsho) - [マネー現代](https://gendai.ismedia.jp/money) - [FRaU](https://gendai.ismedia.jp/frau)<br>
-
