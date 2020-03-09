@@ -53,7 +53,7 @@ date: 2020-02-29
 ### 20200308_sun
 
 ### ほか
-- 100日間おなじ商品を買い続けることでコンビニ店員からあだ名をつけられるか。｜yosano｜note](https://note.com/mutekiinc/n/n773f51e01077) - よみもの
+- [100日間おなじ商品を買い続けることでコンビニ店員からあだ名をつけられるか。｜yosano｜note](https://note.com/mutekiinc/n/n773f51e01077) - よみもの
 - [HomebrewのインストーラーをRubyからBashに書き直しました！ - プログラムモグモグ](https://itchyny.hatenablog.com/entry/2020/03/03/100000) - HomebrewはmacOSのパッケージ管理システム
 - [【テレビ東京公式】伊藤・佐久間をやっつけろ - YouTube](https://www.youtube.com/watch?v=3PplqgGRbR8) - 新卒1年目のスタッフが制作した新卒採用用動画。映像コンテンツ・テレビバラエティに興味がある人向け。佐久間さんのラジオ聞きたくなるね。
 - [テレビ東京 新卒採用2021：テレビ東京](https://www.tv-tokyo.co.jp/jinji/index_2021.html)
