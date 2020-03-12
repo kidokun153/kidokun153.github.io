@@ -26,8 +26,9 @@ date: 2020-03-07
         <li><a href="https://www.nikkei.com/">日本経済新聞</a> - <a href="https://www.nikkei.com/opinion/editorial/">社説</a></li>
         <li><a href="https://www.nishinippon.co.jp/">西日本新聞</a> - <a href="https://www.nishinippon.co.jp/category/column/">社説・コラム</a></li>
         <li><a href="https://www.jiji.com/">時事通信社</a></li>
-        <h3>News</h3>
+        <h3>IT</h3>
         <li><a href="https://www.itmedia.co.jp/">ITmedia</a></li>
+        <li><a href="https://forest.watch.impress.co.jp/">窓の杜</a></li>
     </div>
     <div class="col-lg-4 col-pad">
         <h3>Economy＆Business</h3>
@@ -37,9 +38,13 @@ date: 2020-03-07
         <li><a href="https://xtech.nikkei.com/atcl/nxt/info/18/00001/020800003/">日経クロステック</a></li>
     </div>
     <div class="col-lg-4 col-pad">
+        <h3 id="investigate">investigate</h3>
+        <li><a href="https://www.am.mufg.jp/market/report/">レポート・コラム - 三菱ＵＦＪ国際投信</a></li>
+        <li><a href="https://www.mizuho-ri.co.jp/publication/research/index.html">調査リポート - みずほ総合研究所：</a></li>
         <h3 id="world">World</h3>
         <li><a href="https://www.bloomberg.co.jp/">Bloomberg.co.jp</a></li>
         <li><a href="https://www.bbc.com/japanese">BBC.com/japanese</a></li>
         <li><a href="https://www.cnn.co.jp/">CNN.co.jp</a></li>
+        <li><a href="https://www.nhk.or.jp/kokusaihoudou/archive/">国際報道2020｜NHK　BS1　ワールドウオッチング</a></li>
     </div>
 </div>
