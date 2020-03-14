@@ -9,6 +9,10 @@ date: 2020-03-01
 - [20200303 火 2300 WBS](https://www.evernote.com/l/AYoqbHU_1qtBa4EREv-PSwjkQOBzYBKKpFw/)
 - [20200303 火 2100 ニュースウオッチ9 ※大統領選2020 トランプ陣営](https://www.evernote.com/l/AYqPPgBjTgFPwLBBV83QFQhuu_nIGgXDx5E/)
 
+### キャリーオーバーした話題
+- 志らく師匠
+
+
 ### サイトの課題
 - フッターの作成(？)
 - 画像の表示
