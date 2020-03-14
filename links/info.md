@@ -39,6 +39,7 @@ date: 2020-03-07
     </div>
     <div class="col-lg-4 col-pad">
         <h3 id="investigate">investigate</h3>
+        <li><a href="https://nikkei225jp.com/chart/">日経平均株価 リアルタイムチャート</a></li>
         <li><a href="https://www.am.mufg.jp/market/report/">レポート・コラム - 三菱ＵＦＪ国際投信</a></li>
         <li><a href="https://www.mizuho-ri.co.jp/publication/research/index.html">調査リポート - みずほ総合研究所：</a></li>
         <h3 id="world">World</h3>
