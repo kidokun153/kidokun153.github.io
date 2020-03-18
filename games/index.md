@@ -19,7 +19,7 @@ date: 2020-03-18
     <tr>
       <td>2017年12月</td>
       <td><a href="https://playhearthstone.com/ja-jp/?">ハースストーン</a>
-       <a href="https://kidokun153.github.io/specials/heathstone.html">メモ</a>
+       <a href="https://kidokun153.github.io/specials/heathstone.html">【メモ】</a>
       </td>
       <td>そこそこプレイ中</td>
       <td>PC</td>
@@ -29,7 +29,7 @@ date: 2020-03-18
     <tr>
       <td>2019年2月</td>
       <td><a href="https://www.ea.com/ja-jp/games/apex-legends">エーペックスレジェンズ </a>
-       <a href="https://kidokun153.github.io/specials/apex-legends.html">メモ</a>
+       <a href="https://kidokun153.github.io/specials/apex-legends.html">【メモ】</a>
       </td>
       <td>割とプレイ中</td>
       <td>PS4</td>
