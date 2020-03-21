@@ -45,10 +45,10 @@ date: 2020-03-21
 - [さくらインターネット、福岡大学と協力し 世界最速クラスのハードウェア 時刻同期（NTP）サーバーを自社開発 ～FPGAベースの公開NTPサービスをトライアル提供～ ｜ さくらインターネット](https://www.sakura.ad.jp/information/pressreleases/2020/03/17/1968203094/)
 - [「すべて佐川局長の指示です」森友事件で自殺した財務省職員「遺書」入手 ｜ 文春オンライン](https://bunshun.jp/articles/-/36667)
 - [東出の会見 ｢杏さんが好きですか？唐田えりかが好きですか？」 ](https://twitter.com/Merry_new0/status/1239787444519591936)
-- [(5) 宮下草薙 宮下兼史鷹「洗濯物をナーフで取り込む男」](https://twitter.com/admjpujpwd/status/1239183072043487232)
+- [宮下草薙 宮下兼史鷹「洗濯物をナーフで取り込む男」](https://twitter.com/admjpujpwd/status/1239183072043487232)
 - [寺本莉緒の写真集](https://twitter.com/lespros_t_rio/status/1239510847757549568)を発見する。
 - [野田クリスタルのYouTube](https://www.youtube.com/channel/UCzfagYm_ai4JjGBRedqxu9Q)を発見する。
-- ハースストーン2.0発表される
+- ハースストーン2.0が発表される
 
 ### 20200318 Wed
 - [政府、全国民に現金給付へ　「リーマン対策」の1万2000円超す額で検討　新型コロナ対策 - 毎日新聞](https://mainichi.jp/articles/20200317/k00/00m/010/334000c)
@@ -113,6 +113,7 @@ date: 2020-03-21
 - [BLEACH 20th PROJECT](https://bleach-20th-anniversary.com/)
 - [自宅ゲスト：モト冬樹 ｜バックナンバー｜有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？｜テレビ東京](https://www.tv-tokyo.co.jp/ariyoshieeeee/backnumber/index.html?trgt=20200315)
 - 最近はハースストーンツイッター界隈がどうぶつの森ばかりで悔しい。
+- ノートパソコンが動いた
 - 持ってるパソコンの名前
 - 森友問題 分からない
 - 最近はWBSでトレたまがない
