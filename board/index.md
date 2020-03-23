@@ -17,6 +17,7 @@ date: 2020-03-01
 - [乃木坂46 『I see...』](https://www.youtube.com/watch?v=nGZXxzN4-Pc)は何に似ているか。
 - [A-Studio｜TBSテレビ](https://www.tbs.co.jp/A-Studio/):田中みな実 - 思ったより掘るんだなぁ。女優業へ。花王とずぶずぶ。
 - アリバイ崩し(全7話) 見終わってしまう
+- 今週(先週)のまとめを書こう
 
 ### サイトの課題
 - フッターの作成(？)
