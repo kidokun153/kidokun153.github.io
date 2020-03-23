@@ -3,14 +3,20 @@ layout: item
 title: board
 date: 2020-03-01
 ---
-## 2020m3w2_2020W11[2020-03-14 23:59]
+## 2020m3w3_2020W12[2020-03-23 21:24]
 
-### キャリーオーバー×2した話題(忘れてた)
+### キャリーオーバー×3した話題(忘れてた)
 - [20200303 火 2300 WBS](https://www.evernote.com/l/AYoqbHU_1qtBa4EREv-PSwjkQOBzYBKKpFw/)
 - [20200303 火 2100 ニュースウオッチ9 ※大統領選2020 トランプ陣営](https://www.evernote.com/l/AYqPPgBjTgFPwLBBV83QFQhuu_nIGgXDx5E/)
 
-### キャリーオーバーした話題
+### キャリーオーバー*2した話題
 - 志らく師匠
+
+### キャリーオーバーした話題
+- 持ってるパソコンの名前
+- [乃木坂46 『I see...』](https://www.youtube.com/watch?v=nGZXxzN4-Pc)は何に似ているか。
+- [A-Studio｜TBSテレビ](https://www.tbs.co.jp/A-Studio/):田中みな実 - 思ったより掘るんだなぁ。女優業へ。花王とずぶずぶ。
+- アリバイ崩し(全7話) 見終わってしまう
 
 ### サイトの課題
 - フッターの作成(？)
