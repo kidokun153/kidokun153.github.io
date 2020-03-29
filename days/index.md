@@ -89,7 +89,7 @@ date: 2020-03-28
 ### 20200328 Sat
 - [「特に若者は控えて」東京都 不要不急の外出自粛を呼びかけ ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200328/k10012354941000.html)
 - 臨時休業の週末
-
+- [日本歴史学協会 - 公文書の不適切な管理に対して厳重に抗議する(声明)](http://www.nichirekikyo.com/statement/statement20200321.html)
 
 ### ほか
 - 寝る前に妄想する
