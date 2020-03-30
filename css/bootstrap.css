@@ -8838,7 +8838,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 /*# sourceMappingURL=bootstrap.css.map */
 
-/*追加CSS*/
+/*-----------追加CSS----------------*/
 
 /*ナビゲーションバーの下の部分*/
 .category{
@@ -8919,4 +8919,9 @@ html, body {
 body {
   display: flex;
   flex-flow: column;
+}
+
+h2 {
+  /*線の種類（実線） 太さ 色*/
+  border-bottom: solid 3px black;
 }
