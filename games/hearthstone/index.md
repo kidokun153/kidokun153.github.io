@@ -14,4 +14,4 @@ date: 2020-03-18
 
 ### 環境変化(202003後半以降)
 [2020-03-27 Fri]栄誉の殿堂
-[2020-03-07]灰に舞う降魔の狩人 リリース <a href="https://kidokun153.github.io/games\hearthstone\ashes-of-outland-review.md"> 事前評価 </a><br>
+[2020-03-07]灰に舞う降魔の狩人 リリース <a href="https://kidokun153.github.io/games\hearthstone\ashes-of-outland-review.html"> 事前評価 </a><br>
