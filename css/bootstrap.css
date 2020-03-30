@@ -8840,6 +8840,11 @@ a.text-dark:hover, a.text-dark:focus {
 
 /*-----------追加CSS----------------*/
 
+h2 {
+  /*線の種類（実線） 太さ 色*/
+  border-bottom: solid 3px black;
+}
+
 /*ナビゲーションバーの下の部分*/
 .category{
   margin-bottom: 32px;
@@ -8921,7 +8926,3 @@ body {
   flex-flow: column;
 }
 
-h2 {
-  /*線の種類（実線） 太さ 色*/
-  border-bottom: solid 3px black;
-}
