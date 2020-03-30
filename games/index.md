@@ -19,7 +19,7 @@ date: 2020-03-18
     <tr>
       <td>2017年12月</td>
       <td><a href="https://playhearthstone.com/ja-jp/?">ハースストーン</a>
-       <a href="https://kidokun153.github.io/games/heathstone.html">【メモ】</a>
+       <a href="https://kidokun153.github.io/games/heathstone/index.html">【メモ】</a>
       </td>
       <td>そこそこプレイ中</td>
       <td>PC</td>
