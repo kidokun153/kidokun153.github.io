@@ -20,4 +20,25 @@ date: 2020-02-25
       <td><a href="https://kidokun153.github.io/music-festival/cdtv/sp_spring2020.html">CDTVスペシャル！卒業ソング音楽祭2020</a></td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td>3/21</td>
+      <td>フジテレビ</td>
+      <td><a href="https://kidokun153.github.io/music-festival/fns/2020sp.html">緊急生放送！FNS音楽特別番組 春は必ず来る</a></td>
+    </tr>
+  </tbody>
+   <tbody>
+    <tr>
+      <td>3/25</td>
+      <td>日本テレビ</td>
+      <td><a href="https://kidokun153.github.io/music-festival/premium_music/2020.html">日テレ系音楽の祭典 Premium Music 2020</a></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>3/30</td>
+      <td>TBS</td>
+      <td><a href="https://kidokun153.github.io/music-festival/cdtv_livelive2020.html">ＣＤＴＶライブ！ライブ！初回４時間スペシャル</a></td>
+    </tr>
+  </tbody>
 </table>
