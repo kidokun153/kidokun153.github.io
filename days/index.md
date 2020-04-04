@@ -99,6 +99,7 @@ date: 2020-04-04
 - 病床の話題
 - [Girls Family Restaurant SPECIAL（ガールズ　ファミリーレストラン　スペシャル）｜ファミリーレストラン](http://special.favy.jp/)]
 - [#みちょパラ ｜ ニッポン放送 ラジオAM1242+FM93](https://www.1242.com/michopa/)
+
 ### めも
 #### 新型コロナで味覚障害？
 - 3/27 [東京新聞:＜新型コロナ＞嗅覚・味覚障害の報告相次ぐ　米英専門家「検査対象に」:国際(TOKYO Web)](https://www.tokyo-np.co.jp/article/world/list/202003/CK2020032702000276.html)
