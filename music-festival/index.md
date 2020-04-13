@@ -38,7 +38,14 @@ date: 2020-02-25
     <tr>
       <td>3/30</td>
       <td>TBS</td>
-      <td><a href="https://kidokun153.github.io/music-festival/cdtv_livelive2020.html">ＣＤＴＶライブ！ライブ！初回４時間スペシャル</a></td>
+      <td><a href="https://kidokun153.github.io/music-festival/cdtv_livelive/20200330.html">ＣＤＴＶライブ！ライブ！初回４時間スペシャル</a></td>
+    </tr>
+  </tbody>
+    <tbody>
+    <tr>
+      <td>4/3</td>
+      <td>テレビ朝日</td>
+      <td><a href="https://kidokun153.github.io/music-festival/music_station/20200403.html">ミュージックステーション 気分を上げたいときに聴きたい"アゲうた"3時間SP</a></td>
     </tr>
   </tbody>
 </table>
