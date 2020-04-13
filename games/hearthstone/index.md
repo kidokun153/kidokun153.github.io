@@ -17,3 +17,4 @@ date: 2020-03-18
 [2020-04-08 Wed]灰に舞う降魔の狩人 リリース <a href="https://kidokun153.github.io/[]「games\hearthstone\ashes-of-outland-review.html"> 事前評価 </a><br>
 - デーモンハンターが強すぎる。
 - 一日で最速ナーフされる。コミュニティから批判の声。
+- メタが回り始める
