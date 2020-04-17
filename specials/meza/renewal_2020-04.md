@@ -28,4 +28,4 @@ Official髭男dism「Hello」
 
 ### シェアトピ
 7時35分ごろに新設されたコーナー。以前は通常のニュースであった。
-<p><img class="img-fluid" src="https://i.imgur.com/RjMlj53.png" alt="Image"></p>
+<p><img class="img-fluid" src="https://i.imgur.com/cqZ4V2t.png" alt="Image"></p>
