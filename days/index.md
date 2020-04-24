@@ -3,80 +3,111 @@ layout: item
 title: days
 date: 2020-04-13
 ---
-## 2020m4w2_2020W15
+## 2020m4w4_2020W17
 
-### 20200405 Sun
-- [東京都 新たに143人の感染確認 １日で最多 都内1000人超に ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200405/k10012369381000.html)
-- [対戦ゲーム：東京2020オリンピック The Official Video Game(TM) ゲスト：石田ニコル 自宅ゲスト：黒瀬純（パンクブーブー） ｜バックナンバー｜有吉ぃぃeeeee！～そうだ！今からお前んチでゲームしない？｜テレビ東京](https://www.tv-tokyo.co.jp/ariyoshieeeee/backnumber/index.html?trgt=20200405)
-- [６日にも緊急事態宣言の準備入り表明見通し｜日テレNEWS24](https://www.news24.jp/articles/2020/04/05/04620761.html)
+### 20200419 Sun
+- [ぼく「何度も聞かれるのでZOOMの”安全な設定"まとめ教えます」【待機室,2要素認証など】 - Qiita](https://qiita.com/YukiiM/items/7ae3756b645975a2f1e9)
+- [パッチ盤からケーブルを引っこ抜いてしまいCloudflareに障害発生。ケーブルにラベリングされておらずどれを戻すべきかすぐに分からず － Publickey](https://www.publickey1.jp/blog/20/cloudflare.html)
+- [新型コロナ1年で収束せず　 専門家は厳しい見方、五輪にも影響（時事通信） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20200419-00010003-jij-sctch)
+- [実習生の「窓口」5億円所得隠し　3監理団体に国税指摘：朝日新聞デジタル](https://www.asahi.com/articles/ASN4M76NYN4MOIPE005.html)
+- [韓国 １日当たりの新規感染者数１桁台に 新型コロナウイルス | NHKニュース](https://www3.nhk.or.jp/news/html/20200419/k10012395251000.html)
+- [API 設計ガイド  |  Cloud API  |  Google Cloud](https://cloud.google.com/apis/design?hl=ja)
+- [医療の現場から②｜四谷三丁目｜note](https://note.com/yo_tsu_ya_3/n/nd83fab39b68c)
 
-### 20200406 Mon
-- [死者8000人超のフランス 卸売市場の一部を臨時の遺体安置所に ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200406/k10012370021000.html)
-- [〈独自〉政府、首都圏で鉄道減便要請検討　緊急事態宣言、新幹線も対象 - 産経ニュース](https://www.sankei.com/politics/news/200406/plt2004060009-n1.html)
-- [緊急事態宣言 あすにも宣言へ ７都府県１か月程度で 安倍首相 ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200406/k10012370791000.html)
-- [(1) AMDはなぜ資金面で圧倒的に勝ると思われるIntelを凌駕するCPUを開発できるのでしょうか？ - Quora](https://jp.quora.com/AMD-ha-naze-shikin-men-de-attouteki-ni-masaru-to-omoi-wareru-Intel-wo-ryouga-suru-CPU-wo-kaihatsu-dekiru-node-shou-ka)
+### 20200420 Mon
+- [元ＮＨＫの住吉美紀が肺炎で緊急入院　新型コロナ感染か - 芸能社会 - SANSPO.COM（サンスポ）](https://www.sanspo.com/geino/news/20200420/geo20042005020001-n1.html)
+- [マスクの販売に関するお知らせ：株式会社SHARP COCORO LIFE](https://cocorolife.jp.sharp/mask/)
+- 麻生財務大臣 会見 10万円のもらい方 
+- [『ほろよい×○○』ほろよい集がSNSで大人気！アイドルやネイルなどを色別に推しでまとめる画像が急加速 | Jocee](https://jocee.jp/user/oderogu/a2f0322c05113bfc9678)
+- [善意の「アルコール消毒酒」が転売ヤーの餌食に　国税庁「繰り返せば酒税法違反」、監視強化へ - 弁護士ドットコム](https://www.bengo4.com/c_1015/guides/1676/)
+- [陰湿極まりない嫌がらせ…感染患者・家族の家に投石や落書き被害　三重県（CBCテレビ） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20200420-00016340-cbcv-soci)
+- [「在宅で集中できず」貸しスペースが人気 新型コロナ さいたま | NHKニュース](https://www3.nhk.or.jp/news/html/20200420/k10012396071000.html)
+- [これは純粋に疑問なんですけど、『味の素が嫌い』って方は普段何を食べているんでしょうか - Togetter](https://togetter.com/li/1496588)
+- [WTI原油先物で歴史的瞬間、原油の押し付け合いで逆オイルショック発生 : 市況かぶ全力２階建](http://kabumatome.doorblog.jp/archives/65961527.html)
+- [妊婦向けの布マスク 不良品6700枚に 原因調査 | NHKニュース](https://www3.nhk.or.jp/news/html/20200421/k10012397691000.html)
+- [10万円一律給付 対象や手続きの方法は 総務省が発表 | NHKニュース](https://www3.nhk.or.jp/news/html/20200420/k10012396751000.html)
+- [「だれでも自由に改憲できる日本国憲法」改憲の歴史 - nomolkのブログ](http://nomolk.hatenablog.com/entry/2020/04/19/213000)
+- [【藤本健のDigital Audio Laboratory】声優・小岩井ことりさんと実験! オンライン会議アプリの音質比較してみた 前編-AV Watch](https://av.watch.impress.co.jp/docs/series/dal/1248155.html)
+- [負の原油価格｜大場紀章 エネルギーアナリスト｜note](https://note.com/noriakioba/n/n10da89d934f0)
+- [県職員の10万円でコロナ対策　広島知事、国給付の活用表明（中国新聞デジタル） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20200421-00010007-chugoku-soci)
+- [「牛乳やヨーグルトもう１つ多めに買って」農水省呼びかけ | NHKニュース](https://www3.nhk.or.jp/news/html/20200421/k10012398171000.html)
 
-### 20200407 Tue
-- [時間速く進むスカイツリー展望台　10億分の4秒、相対性理論実証 ｜ 共同通信](https://this.kiji.is/619910140409316449)
-- [Ｎ国 立花党首を書類送検 威力業務妨害などの疑い ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200407/k10012372011000.html)
-- [内定者にSNSで「辞退して。邪魔です」　入社前に自殺：朝日新聞デジタル](https://www.asahi.com/articles/ASN495JDNN49ULFA011.html)
-- [安倍首相が緊急事態宣言 ７都府県対象 効力５月６日まで ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200407/k10012373011000.html)
-- [政府 緊急経済対策を決定 事業規模は総額108兆円程度 ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200407/k10012373231000.html)
+### 20200421 Tue (緊急事態宣言から2週間)
+- [虫混入、カビ付着…全戸配布用の布マスクでも不良品　政府、公表せず - 毎日新聞](https://mainichi.jp/articles/20200421/k00/00m/040/185000c)
+- [「牛乳やヨーグルトもう１つ多めに買って」農水省呼びかけ | NHKニュース](https://www3.nhk.or.jp/news/html/20200421/k10012398171000.html)
+- [「シャープのマスク」購入殺到で、同社のIoT家電がダウン - Engadget 日本版](https://japanese.engadget.com/jp-2020-04-20-iot.html)
+- [県職員の10万円でコロナ対策　広島知事、国給付の活用表明（中国新聞デジタル） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20200421-00010007-chugoku-soci)
+- [アベノマスク - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%99%E3%83%8E%E3%83%9E%E3%82%B9%E3%82%AF)
+- [安倍首相が費用負担同意とIOC ｜ 共同通信](https://this.kiji.is/625126785047102561)
+- [人は新型コロナにかかるとどうなるのか。｜Kei Yoshimizu｜note](https://note.com/yosimizu/n/nafff6785dc12)
+- [休業要請「応じぬ事業者の名前公表など強い措置も」経済再生相 | NHKニュース](https://www3.nhk.or.jp/news/html/20200421/k10012398141000.html)
+- [モンベル、防護服を無償提供へ　辰野会長「できることやる」 ｜ 共同通信](https://this.kiji.is/625268186409141345)
+- [橋下徹さん「公務員は受け取り禁止!となぜルール化しないのか」“10万円一律給付”の持論展開に賛否噴出（中日スポーツ） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20200421-00010026-chuspo-ent)
+- [Gitでよく使用するコマンドをGIFアニメで解説 | コリス](https://coliss.com/articles/build-websites/operation/work/useful-git-commands-visualized.html)
+- [政府配布の布マスク、受注3社が判明　計90億円で契約 \[新型コロナウイルス\]：朝日新聞デジタル](https://www.asahi.com/articles/ASN4P6GRPN4PUTFK022.html)
+- [自宅で学ぼう！AWS 初学者向けの勉強方法 6ステップ！ | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/aws-beginner-home-learning/)
+- [NTT東日本とIPAによる「シン・テレワークシステム」の緊急構築と無償開放について～職場や大学のパソコンに自宅から安全にアクセスし在宅勤務や研究等の継続が可能～ | お知らせ・報道発表 | 企業情報 | NTT東日本](https://www.ntt-east.co.jp/release/detail/20200421_01.html)
+- [世界的“マスク争奪戦” 小売業者に適正価格での販売要請へ | NHKニュース](https://www3.nhk.or.jp/news/html/20200422/k10012399741000.html)
+- [台湾から「日本加油」入りマスク200万枚、成田到着　「真の友の証し」 - 毎日新聞](https://mainichi.jp/articles/20200421/k00/00m/030/159000c)
+- [維新全議員、10万円給付は受け取り全額寄付へ - 毎日新聞](https://mainichi.jp/articles/20200421/k00/00m/040/211000c)
+- [Google、VPNに代わる企業向け「BeyondCorp Remote Access」公開 - ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2004/21/news059.html)
 
-### 20200408 Wed
-- [PlayStation®5用 新ワイヤレスコントローラーDualSense™公開 ｜ PlayStation.Blog](https://www.jp.playstation.com/blog/detail/9498/20200408-ps5.html)
-- [お笑いコンビ「たんぽぽ」白鳥さん 新型コロナ感染 事務所発表 ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200408/k10012375311000.html)
-- [岩田健太郎 Kentaro IwataさんはTwitterを使っています 「昨夜の安倍首相のスピーチはとても良いものでした（その後の質疑応答は聞いてません）。スピーチやリスコミのプロとかなり練り上げて原稿を作ったものだと思います。あらゆる方面に配慮の利いた、とてもよいものでした。」 / Twitter](https://twitter.com/georgebest1969/status/1247645792623407105)
-- [政府の非常事態宣言が出ても、 みすず学苑は通常通り。その理由（わけ）は? ｜ 予備校なら怒濤の英語「みすず学苑」](https://www.misuzu-gakuen.jp/emergency/)
-- [“人との接触７～８割削減” 二階氏「できるわけない」 TBS NEWS](https://news.tbs.co.jp/newseye/tbs_newseye3951298.html)
-- [北朝鮮「１人の感染者もいない」ＷＨＯに報告 新型コロナ ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200408/k10012375961000.html)
+### 20200422 Wed
+- [誹謗中傷をしているアカウント名「謎水」について｜製品への誹謗中傷について｜日本システム企画株式会社](https://www.jspkk.co.jp/jp/answer/o-02.html)
+- [サンド伊達、山下達郎ら著名人の「批判やめよう」喚起に賛否（女性自身） - Yahoo!ニュース](https://headlines.yahoo.co.jp/article?a=20200422-00010005-jisin-ent)
+- [仁藤夢乃 Yumeno NitoさんはTwitterを使っています 「一昨日、自民党議員から、バスカフェに国会議員で視察に行きたいと連絡がありました。若年女性の置かれた現状を知ってもらえるならと、5人までなら受け入れられることを伝えていました。」 / Twitter](https://twitter.com/colabo_yumeno/status/1252988320923041792)
+- [個人でのPCR検査キットの使用は控えましょう(忽那賢志) - 個人 - Yahoo!ニュース](https://news.yahoo.co.jp/byline/kutsunasatoshi/20200422-00174556/)
+- [なぜ日本はまあまあ防疫できているのか（私的仮説まとめ）｜ショーンKY｜note](https://note.com/kyslog/n/nbcb70b8853d7)
+- [これが対コロナ最強布陣｢橋下総理､小池長官､吉村厚生相｣ もう安倍に政権を任せるのは無理だ | PRESIDENT Online（プレジデントオンライン）](https://president.jp/articles/-/34737)
+- [東京五輪をコロナ克服の証しに　森会長、開会式演出の大幅変更も ｜ 共同通信](https://this.kiji.is/625626220522079329)
+- [「布マスクで国民の不安はパッと消えますよ」アベノマスクを主導した“官邸の金正恩”ってどんな人？ | 文春オンライン](https://bunshun.jp/articles/-/37353)
+- [陰性証明の検査を 希望者相次ぐ｜NHK 首都圏のニュース](https://www3.nhk.or.jp/shutoken-news/20200422/1000047825.html)
+- [新型コロナ 軽症で自宅待機の50代男性死亡 埼玉 | NHKニュース](https://www3.nhk.or.jp/news/html/20200422/k10012401031000.html)
+- [橋下徹氏「給料、ボーナスが減らない人に給付する必要なし」対立や敵対心を煽らず、もう静かにしてほしい(藤田孝典) - 個人 - Yahoo!ニュース](https://news.yahoo.co.jp/byline/fujitatakanori/20200422-00174724/)
+- [慶応のPCR6％の意味 - 楽園はこちら側](https://georgebest1969.typepad.jp/blog/2020/04/%E6%85%B6%E5%BF%9C%E3%81%AEpcr6%E3%81%AE%E6%84%8F%E5%91%B3.html)
+- [新型コロナ受けＩＴ戦略の策定を指示 首相 | NHKニュース](https://www3.nhk.or.jp/news/html/20200422/k10012401011000.html)
+- [国民民主党・玉木代表「受けとらないことを善とする風潮を政治家が作り出すのはナンセンス」閣僚が10万円給付辞退に不快感（中日スポーツ） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20200421-00010060-chuspo-ent)
+- [コロナ後の世界 - 内田樹の研究室](http://blog.tatsuru.com/2020/04/22_1114.html)
+- [10万円なぜ世帯主に給付　「要求、死ぬほどストレス」：朝日新聞デジタル](https://www.asahi.com/articles/ASN4Q571QN4QUCLV002.html)
+- [存在しない回botが変わってしまった回｜品田遊（ダ・ヴィンチ・恐山）｜note](https://note.com/d_v_osorezan/n/n70d91a334fbf)
+- [業者からの反論 \[理科の探検サイトの削除問題\]](https://nmr.nazomizu.com/objection/start)
+- [いま、世界は「あつまれ どうぶつの森」を求めている｜WIRED.jp](https://wired.jp/2020/04/22/rave-animal-crossing-new-horizons/)
+- [休業一転、再開の都内パチンコ店　ＳＮＳ炎上「呆れた」 - 産経ニュース](https://www.sankei.com/life/news/200422/lif2004220058-n1.html)
+- [在宅勤務環境の継続的改善 - クックパッド開発者ブログ](https://techlife.cookpad.com/entry/2020/04/22/133033)
+- [「ウイルスはフェイクだ！」　米国で経済再開求めるデモ相次ぐ - BBCニュース](https://www.bbc.com/japanese/video-52378390)
+- [スウェーデン　「集団免疫」獲得の兆しか](https://news.tv-asahi.co.jp/news_international/articles/000182357.html)
+- [テレワーク実施は９７・８％　経団連調査（産経新聞） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20200422-00000520-san-bus_all)
+- [菅氏、全世帯配布のマスクに「不良品生じることある」　 \[新型コロナウイルス\]：朝日新聞デジタル](https://www.asahi.com/articles/ASN4Q43HNN4QUTFK004.html)
 
-### 20200409 Thu
-- [イラスト図解！ これが新型コロナウイルス（SARS-CoV-2）だ｜ぬまがさワタリ｜note](https://note.com/numagasa/n/n40e78b961a15)
-- [布マスク全世帯配布 来週から郵送開始 都市部優先で ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200409/k10012377121000.html)
-- [白マスクだけの全裸男を女子高生が目撃　鹿児島市の空き地付近　県警が注意喚起｜【西日本新聞ニュース】](https://www.nishinippon.co.jp/item/n/599163/)
-- [ヨドバシ.com - ヨドバシカメラマルチメディア横浜店（横浜市）における同店滞在者の新型コロナウイルスの感染について](https://www.yodobashi.com/ec/support/news/200409336540/index.html)
 
-### 20200410 Fri
-- [2020年サンリオキャラクター大賞 公式サイト](https://ranking.sanrio.co.jp/)
-- [【速報】客と経営者 美容院クラスターか　福岡・豊前市 ｜ FNNプライムオンライン](https://this.kiji.is/621179488345506913?c=62479058578587648)
-- [隅田川花火大会の中止決定 - ライブドアニュース](https://news.livedoor.com/article/detail/18100896/)
-- [都の休業要請、協力金50万～100万円　対象業種公表 [新型コロナウイルス]：朝日新聞デジタル](https://www.asahi.com/articles/ASN4B3QC1N4BUTIL006.html)
-- [イタリア 医師100人超が死亡 新型コロナウイルス ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200410/k10012379061000.html)
-- [感染拡大で需要減の和牛 販売促進に500億円 農水省 ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200411/k10012381471000.html)
-- [小池都知事にコロナのこと質問しまくってみた【ヒカキンTV】【新型コロナウイルス】 - YouTube](https://www.youtube.com/watch?v=ofCsslfc-So)
-- [経済対策で「給食に国産メロン」も ｜ 共同通信](https://this.kiji.is/621179515888632929)
-- [在宅勤務なのにハンコを押すために出社… ｜ NHKニュース](https://www3.nhk.or.jp/news/html/20200411/k10012381401000.html)
-- [N国、同姓同名「小池百合子」擁立も　立花氏「新型コロナ対策受け入れなければ」 - 毎日新聞](https://mainichi.jp/senkyo/articles/20200410/k00/00m/010/321000c)
-- [「社長と思ったら中間管理職」　小池都知事、国に不満（1/2ページ） - 産経ニュース](https://www.sankei.com/life/news/200410/lif2004100124-n1.html)
-- [中国新聞さんはTwitterを使っています 「【おわび】９日夜にヤフーニュースへ配信した「島根県で初の（新型コロナウイルス）感染者」の記事初出時に添えた写真は、島根県庁ではなく鳥取県庁でした。関係者のみなさまにご迷惑をおかけしました。」 / Twitter](https://twitter.com/ChugokuShimbun/status/1248461782538059778)
-- [官邸幹部「小池知事に押し切られた」　都の休業要請：朝日新聞デジタル](https://www.asahi.com/articles/ASN4B3Q30N4BULFA004.html)
+### 20200423 Thu
+- [【朗報】イェール大「唾液によるPCR検査の精度が高い。唾液なら自宅採取も可能で検査数増大が可能」 - Togetter](https://togetter.com/li/1498025)
+- [「一生役に立つ」人に質問するときに覚えておきたい…とある大学の授業で配られた『質問の仕方』のスライド - Togetter](https://togetter.com/li/1498194)
+- [帰省してまもない妊婦 救急搬送の受け入れ断られる 岩手 | NHKニュース](https://www3.nhk.or.jp/news/html/20200423/k10012402111000.html)
+- [岡江久美子さん　新型コロナで死去、６３歳…３日に発熱、６日に容態急変（デイリースポーツ） - Yahoo!ニュース](https://headlines.yahoo.co.jp/hl?a=20200423-00000078-dal-ent)
+- [大阪市長「女性は買い物に時間」　スーパー混雑問題で ｜ 共同通信](https://this.kiji.is/625986165828142177)
+- [興和と伊藤忠、未配布分回収　政府の不良品マスク問題で：時事ドットコム](https://www.jiji.com/jc/article?k=2020042301133&g=eco)
+- [ＷＨＯテドロス事務局長「世界は元に戻らない」 TBS NEWS](https://news.tbs.co.jp/newseye/tbs_newseye3962710.htm)
+- [米ニューヨーク州 約14％に抗体確認と発表 新型コロナ | NHKニュース](https://www3.nhk.or.jp/news/html/20200424/k10012403011000.html)
+- [新型コロナの発生源は？ 真相究明求める声 世界で広がる | NHKニュース](https://www3.nhk.or.jp/news/html/20200423/k10012402431000.html)
+- [アルコール濃度高い酒 高値で転売相次ぐ 国税庁が監視強化 | NHKニュース](https://www3.nhk.or.jp/news/html/20200424/k10012402561000.html)
+- [東京都「企業は12連休を」　首都圏3県と協力依頼　　:日本経済新聞](https://www.nikkei.com/article/DGXMZO58399110T20C20A4000000/)
+- [堀江貴文氏、登山自粛要請に「頭悪すぎて笑う」 - 芸能 : 日刊スポーツ](https://www.nikkansports.com/entertainment/news/202004230000110.html)
 
-### 20200411 Sat
-- [「このままでは8割減できない」 「8割おじさん」こと西浦博教授が、コロナ拡大阻止でこの数字にこだわる理由](https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura)
-- [孫正義さんはTwitterを使っています 「出来ました。 世界最大マスクメーカーBYD社と提携し、SB用製造ライン設立。 5月から納品、月産3億枚 (医療用高機能N95を1億枚、一般用サージカルを2億枚) 。 政府マスクチームと連携を図り、医療現場をはじめ、一人でも多くの人々にSBは無利益でマスクを供給します。 https://t.co/0anaFcD7If」 / Twitter](https://twitter.com/masason/status/1248929312775921666)
-- [安倍政権のコロナ経済対策、なんと自民若手たちが「批判」を始めた…！（小川 匡則） ｜ マネー現代 ｜ 講談社（1/6）](https://gendai.ismedia.jp/articles/-/71731)
 
-### 20200412 Sun
-- [安倍晋三さんはTwitterを使っています 「友達と会えない。飲み会もできない。 ただ、皆さんのこうした行動によって、多くの命が確実に救われています。そして、今この瞬間も、過酷を極める現場で奮闘して下さっている、医療従事者の皆さんの負担の軽減につながります。お一人お一人のご協力に、心より感謝申し上げます。 https://t.co/VEq1P7EvnL」 / Twitter](https://twitter.com/AbeShinzo/status/1249127951154712576)
-- [岩田健太郎 Kentaro IwataさんはTwitterを使っています 「西村さんはコロナ大臣辞めたほうがいいよ。ぼくは普通、「だれだれ辞めろ」とかは言わないことにしてるけど、あまりにも弊害が大きすぎる。」」 / Twitter](https://twitter.com/georgebest1969/status/1249182560640536576)
-- [『報ステ』富川悠太アナ、新型コロナ感染　テレ朝が経緯発表 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2159776/)
-- 長きにわたった戦い実終止符をうちたい→うった ついにダイアモンドに到達
+### 20200424 Fri
+### 20200425 Sat
 
 ### ほか
-- 忘れてたけどマスカッツ加入
-- 給付に関して線の引き方の難しさ
-- [鷲見玲奈(すみれいな)はInstagramを利用しています:「. 緊急事態宣言が発令され、新型コロナウイルスの脅威と日本中のみなさんが闘っています。 ずっと家にいるとストレスが溜まったり、先の見えない日々に不安を感じることもありますよね。 一日でも早く収束することを願い、私自身、自分や自分の周りの人の安全を考えて生活したいと思います。 .…」](https://www.instagram.com/p/B-vIjonDXIx/?utm_source=ig_web_copy_link)
-- いいところを見つけるのはいいことだね
-- イマドキ 中学生
-- [「欧米に近い外出制限を」　西浦博教授が感染者試算　　:日本経済新聞](https://www.nikkei.com/article/DGXMZO57610560T00C20A4MM0000/)
+- 家庭内感染問題
+- 抗体検査の話題
+- [＃早口言葉でエール - YouTube](https://www.youtube.com/results?search_query=%EF%BC%83%E6%97%A9%E5%8F%A3%E8%A8%80%E8%91%89%E3%81%A7%E3%82%A8%E3%83%BC%E3%83%AB)
+- 早くしないと老けちゃうぞ　ラストアイドル
+- 日本一のマーメイド
+- フジテレビの魅力とは ドラマ バラエティ
+- くまくっきんぐへの憎しみ
+- ドォーモという半分エロ番組 
+- 小関君と松本さんの微妙な関係
 
-### めも
-#### ドリームマッチ
-- 野球ネタでも笑える鍛えられた観客
-- あっさいあっさいコメント
-- 滑るハードルは低い
-- 野球ネタに走り勝ち
 
 ### 今週のまとめ
-- 緊急事態宣言  発令

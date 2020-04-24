@@ -8,6 +8,11 @@ date: 2020-02-17
 - [情報収集](https://kidokun153.github.io/links/info)
 - [ショップ](https://kidokun153.github.io/links/shop)
 
+## 情報収集参考
+- [私のセキュリティ情報収集法を整理してみた（2020年版） - Fox on Security](https://foxsecurity.hatenablog.com/entry/2020/01/01/090000)
+- [エンジニアが情報収集とトレンドを追うのに読むと良いサイト - Qiita](https://qiita.com/ryuichi1208/items/604a68abb91949e79ece)
+  
+
 ## Tools
 - [コピペ用カレンダー](http://tma.main.jp/calendar/)
 - [2020年（令和2年）カレンダー(祝日・六曜・月齢)｜便利コム](http://www.benri.com/calendar/)
@@ -41,6 +46,7 @@ date: 2020-02-17
 - [VS Codeでエンコーディングを自動判別する - Qiita](https://qiita.com/hijion/items/e8b9f25d212801ca8a36)
 - [VSCodeのマルチカーソル練習帳 - Qiita](https://qiita.com/TomK/items/3b1f5be07d708d7bd6c5)  
 - [VScodeのemmetをmarkdownで有効にする方法](https://bluebear.jp/post/vscode-emmet-markdown/)
+- [【Windows版】VS Code キーボードショートカット一覧 （オススメ付き） - Qiita](https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b)
 　
 
 ## Evernote
@@ -58,7 +64,10 @@ date: 2020-02-17
 
 ## Windows
 - [Mingw-w64/MSYS2 を入れなくても Git for Windows で間に合うみたい - 檜山正幸のキマイラ飼育記 (はてなBlog)](https://m-hiyama.hatenablog.com/entry/20151013/1444704189)
-　
+
+## Linux
+- [Address already in use の対処法 - Qiita](https://qiita.com/arashida/items/8b8d9d2f1f040b2aecf1)
+- [tmuxチートシート - Qiita](https://qiita.com/nmrmsys/items/03f97f5eabec18a3a18b)
 
 ## ffmpeg
 - [ffmpegで連番画像から動画生成 / 動画から連番画像を生成 ~コマ落ちを防ぐには~ - Qiita](https://qiita.com/livlea/items/a94df4667c0eb37d859f)
