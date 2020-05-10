@@ -17,3 +17,4 @@ date: 2020-02-25
 [2020m4w3_2020W16](https://kidokun153.github.io/days/archives/2020m4w3_2020W16)<br>
 [week17-0419](https://kidokun153.github.io/days/archives/2020/week17-0419)<br>
 [week18-0426](https://kidokun153.github.io/days/archives/2020/week18-0426)<br>
+[week19-0503](https://kidokun153.github.io/days/archives/2020/week19-0503)<br>

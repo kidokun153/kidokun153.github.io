@@ -16,7 +16,7 @@ date: 2020-03-18
 
 ### 環境変化(202003後半以降)
 [2020-03-27 Fri]栄誉の殿堂<br>
-[2020-04-08 Wed]灰に舞う降魔の狩人 リリース <a href="https://kidokun153.github.io/[]「games\hearthstone\ashes-of-outland-review.html"> 事前評価 </a><br>
+[2020-04-08 Wed]灰に舞う降魔の狩人 リリース <a href="https://kidokun153.github.io\games\hearthstone\ashes-of-outland-review.html"> 事前評価 </a><br>
 - デーモンハンターが強すぎる。
 - 一日で最速ナーフされる。それに対するコミュニティから批判の声もあった。([最速ナーフ！デーモンハンターが1日で4枚も弱体化！ - ハースストーンデッキ検索 HearthGamers](https://hearthgamers.com/posts/article-2020-04-09))
 - [「ハースストーン 灰に舞う降魔の狩人」レビュー - GAME Watch](https://game.watch.impress.co.jp/docs/review/1246548.html)
@@ -28,4 +28,12 @@ date: 2020-03-18
   - デーモンハンター スペルドルイド の弱体化 聖典パラディンの強化 など
   - ワイルド環境でもクエストメイジ 暗黒ウォーロックの弱体化
   - バトルグラウンドは マナストームの弱体化
+
+[2020-04]ラダー終了
+- スタン
+  -　ガラクロンドプリーストがお気に入り 
+- ワイルド
+  - レノロックがお気に入り。8/5/8のおかげで強い悪魔レノロックになる
+  - バランス調整によって愛用していた暗黒ウォーロックが使えなくなる
+  - ディスカードズーロックも悪くない
 
