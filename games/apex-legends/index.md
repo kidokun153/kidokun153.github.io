@@ -4,6 +4,9 @@ title: games
 date: 2020-03-16
 ---
 
+<a href="https://kidokun153.github.io\games\apex-legends\season-4"> シーズン4 </a><br>
+
+
 ## Apex legends シーズン4 アシミレーション
 
 ### 履歴
