@@ -29,7 +29,7 @@ date: 2020-03-18
     <tr>
       <td>2019年2月</td>
       <td><a href="https://www.ea.com/ja-jp/games/apex-legends">エーペックスレジェンズ </a>
-       <a href="https://kidokun153.github.io/games/apex-legends.html">【メモ】</a>
+       <a href="https://kidokun153.github.io/games/apex-legends/index.html">【メモ】</a>
       </td>
       <td>割とプレイ中</td>
       <td>PS4</td>
