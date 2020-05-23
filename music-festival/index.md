@@ -2,6 +2,7 @@
 layout: item
 title: music-festival
 date: 2020-02-25
+categories: music
 ---
 
 ## 2020
