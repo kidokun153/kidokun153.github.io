@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-08-05 20:20:56 -0400
 categories: writing

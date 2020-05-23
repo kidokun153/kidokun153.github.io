@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: post
 title:  "Bacoms are delicious"
 date:   2016-08-07
 ---
