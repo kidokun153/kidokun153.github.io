@@ -72,6 +72,12 @@
 
     
     <main>
+      <h1>コロナさん</h1> 
+      {% if post.outline %}
+      <p>{{ post.outline }}</p>
+      {% else %}
+      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+      {% endif %}
       <div class="container padding-128px">
         <h1>コロナさん</h1> 
         <a href="https://.imgur.com/Rbqbyg8"><img class="img-fluid" src="https://i.imgur.com/Rbqbyg8.png" title="source: imgur.com" /></a>
