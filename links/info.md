@@ -29,6 +29,7 @@ date: 2020-03-07
         <h3>IT</h3>
         <li><a href="https://www.itmedia.co.jp/">ITmedia</a></li>
         <li><a href="https://forest.watch.impress.co.jp/">窓の杜</a></li>
+        <li><a href="https://www.watch.impress.co.jp/">Impress Watch</a></li>
     </div>
     <div class="col-lg-4 col-pad">
         <h3>Economy＆Business</h3>
