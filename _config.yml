@@ -1,14 +1,27 @@
+# ---- build option ----
 highlighter: pygments
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript","hard_wrap"]
+
+
+# ---- breadcrumbs -----
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
+
+# ---- collections -----
+
+collections :
+  docs :
+    output    : true
+    permalink : /:path
+
+# ---- default -----
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       permalink: /article/:title.html
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text

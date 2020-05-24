@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: dafault
 title: anime
 date: 2020-02-25
 ---
