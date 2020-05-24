@@ -6,12 +6,14 @@ layout: default
 <div>
     <h1>{{page.title}}</h1>
 
-    <dl class="text-right">
-      <dt>created</dt>
-      <dd>{{page.date | date : "%F"}}</dd>
-      <dt>last change</dt>
-      <dd>{{page.lastchange}}</dd>
-    </dl>
+    <div class="text-right">
+        <dl>
+            <dt>created</dt>
+            <dd class="date-space">{{page.date | date : "%F"}}  </dd>
+            <dt>last change</dt>
+            <dd>{{page.lastchange}}</dd>
+        </dl>
+    </div>
     
 </div>
 
