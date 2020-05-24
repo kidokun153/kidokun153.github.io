@@ -8843,7 +8843,11 @@ a.text-dark:hover, a.text-dark:focus {
 
 /*-----------日時----------------*/
 
-dt,dd{
+dt{
+  float: left;
+}
+
+dt{
   float: left;
 }
 
