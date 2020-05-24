@@ -8843,6 +8843,10 @@ a.text-dark:hover, a.text-dark:focus {
 
 /*-----------日時----------------*/
 
+dl{
+  ;float:right;
+}
+
 dt{
   float: left;
   text-align:right;
