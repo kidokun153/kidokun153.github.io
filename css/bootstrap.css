@@ -8845,12 +8845,12 @@ a.text-dark:hover, a.text-dark:focus {
 
 dt{
   float: left;
-  clear: left ;
+  text-align:right;
 }
 
 dd{
   float: left;
-  clear: left ;
+  text-align:right;
 }
 
 dt::after{
