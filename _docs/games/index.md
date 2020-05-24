@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: default
 title: games
 date: 2020-03-18
 ---
