@@ -7,14 +7,14 @@ layout: default
 
 <article>
 
-    <header class="text-right">
+    <header>
         <div class="row">
             <div class="col-sm-4"></div>
             <div class="col-sm-8">
-                <dl>
+                <dl text-right>
                     <dt>created</dt>
-                    <dd class="date-space">{{page.date | date : "%F"}}  </dd>
-                    <dt>last change</dt>
+                    <dd>{{page.date | date : "%F"}}  </dd>
+                    <dt class="date-space">last change</dt>
                     <dd>{{page.lastchange}}</dd>
                 </dl>
             </div>
