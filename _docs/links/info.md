@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: default
 title: links
 date: 2020-03-07
 ---

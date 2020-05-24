@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: default
 title: books
 date: 2020-02-17
 categories: writing
