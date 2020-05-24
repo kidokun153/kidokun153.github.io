@@ -8847,10 +8847,6 @@ dt{
   float: left;
 }
 
-dd{
-  float: left;
-}
-
 dt::after{
   content: "："
 }
