@@ -8848,6 +8848,11 @@ dt{
   clear: left ;
 }
 
+dd{
+  float: left;
+  clear: left ;
+}
+
 dt::after{
   content: "："
 }
