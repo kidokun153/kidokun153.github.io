@@ -8865,6 +8865,11 @@ dt::after{
   content: "："
 }
 
+.date-space{
+  margin-left: 80px;
+
+}
+
 
 
 h3 {
