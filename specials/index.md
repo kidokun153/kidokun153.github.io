@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: default
 title: specials
 date: 2020-02-17
 ---

@@ -2,30 +2,24 @@
 layout: default
 ---
 
-<!--title-->
-    <h1>{{page.title}}</h1>
+<header>
+    <div class="row img-padding">
+        <div class="col-sm-12">
+                <dl class="float-right">
+                    <dt>created</dt>
+                    <dd>{{page.date | date : "%F"}}  </dd>
+                    <dt class="date-space">last change</dt>
+                    <dd>{{page.lastchange}}</dd>
+                </dl>
+        </div>
+        </div>
+    
+</header>
 
-<article>
+<div>
+{{ content }}
+</div>
 
-    <header>
-        <div class="row img-padding">
-            <div class="col-sm-12">
-                    <dl class="float-right">
-                        <dt>created</dt>
-                        <dd>{{page.date | date : "%F"}}  </dd>
-                        <dt class="date-space">last change</dt>
-                        <dd>{{page.lastchange}}</dd>
-                    </dl>
-            </div>
-          </div>
-       
-    </header>
-
-    <div>
-    {{ content }}
-    </div>
-
-</article>
 
 
 <!--
