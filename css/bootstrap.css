@@ -8855,6 +8855,10 @@ dt::after{
   content: "："
 }
 
+dd::after{
+  content: "  "
+}
+
 
 
 h3 {
