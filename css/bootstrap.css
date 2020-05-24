@@ -8840,6 +8840,18 @@ a.text-dark:hover, a.text-dark:focus {
 
 /*-----------追加CSS----------------*/
 
+
+/*-----------日時----------------*/
+dt,dd{
+  float: left;
+}
+
+dt::after{
+  content: "："
+}
+
+
+
 h3 {
   /*線の種類（実線） 太さ 色*/
   border-bottom: solid 3px black;
