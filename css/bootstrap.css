@@ -8845,6 +8845,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 dt{
   float: left;
+  clear: left ;
 }
 
 dt::after{
