@@ -8,12 +8,18 @@ layout: default
 <article>
 
     <header class="text-right">
-        <dl>
-            <dt>created</dt>
-            <dd class="date-space">{{page.date | date : "%F"}}  </dd>
-            <dt>last change</dt>
-            <dd>{{page.lastchange}}</dd>
-        </dl>
+        <div class="row">
+            <div class="col-sm-8"></div>
+            <div class="col-sm-4">
+                <dl>
+                    <dt>created</dt>
+                    <dd class="date-space">{{page.date | date : "%F"}}  </dd>
+                    <dt>last change</dt>
+                    <dd>{{page.lastchange}}</dd>
+                </dl>
+            </div>
+          </div>
+       
     </header>
 
     <div>
