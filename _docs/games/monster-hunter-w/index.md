@@ -1,6 +1,6 @@
 ---
 layout: item
-title: games
+title: モンスターハンターワールド
 date: 2020-04-25
 ---
 

@@ -1,12 +1,10 @@
 ---
-layout: item
-title: specials
+layout: post
+title: 田中みな実写真集観測部
 date: 2020-03-06
 ---
 
-## 田中みな実写真集観測部
-
-### 時系列・関連ニュース
+## 時系列・関連ニュース
 20191018 [田中みな実、初写真集12・13発売　こだわりのボディメイクで「触れたくなるからだ」に ｜ ORICON NEWS](https://www.oricon.co.jp/news/2146833/)<br>
 20191020 サンジャポで目標20万部と語る<br>
 20191203 [田中みな実、話題の写真集初版は大規模12万部　インスタフォロワー120万人突破 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2150143/)<br>
@@ -26,7 +24,7 @@ date: 2020-03-06
 20200403 [田中みな実1st写真集が歴代記録更新　「写真集ジャンル歴代累積記録」で5週ぶり歴代1位返り咲き【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2158966/full/)
 <br>                                                                                                                   
 
-### 売上
+## 売上
 <table  class="table table-striped">
 	<thead>
 		<tr><th>合計週</th><th>日付</th><th>写真集 <br> ランキング</th><th>本 <br> ランキング</th><th>売上部数</th><th>累計売上部数</th></tr>
@@ -56,11 +54,11 @@ date: 2020-03-06
 	</tbody>
 </table>
 
-### 参照リンク
+## 参照リンク
 [田中みな実のニュース | ORICON NEWS](https://www.oricon.co.jp/prof/569567/article/news/)<br>
 [オリコンランキング | ORICON NEWS](https://www.oricon.co.jp/rank/)<br><br>
 
-### 更新履歴　(途中から)
+## 更新履歴　(途中から)
 [2020-03-18]13周目 追加<br>
 [2020-03-29]14,15週目追加 体裁の修正<br>
 [2020-04-13]16,17週目追加

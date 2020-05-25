@@ -1,10 +1,8 @@
 ---
-layout: item
-title: links
+layout: post
+title: ショップ
 date: 2020-03-07
 ---
-
-## ショップ
 
 <div class="row">
     <div class="col-lg-4 col-pad">

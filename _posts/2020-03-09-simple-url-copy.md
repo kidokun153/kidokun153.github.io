@@ -1,6 +1,6 @@
 ---
-layout: item
-title: tokushu
+layout: post
+title: simple-url-copyを改造
 date: 2020-03-09
 ---
 ## やったこと

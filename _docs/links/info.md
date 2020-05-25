@@ -1,10 +1,8 @@
 ---
-layout: default
-title: links
+layout: post
+title: 情報収集
 date: 2020-03-07
 ---
-
-## 情報収集
 
 <div class="row">
     <div class="col-lg-4 col-pad">

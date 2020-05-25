@@ -1,19 +1,17 @@
 ---
-layout: item
-title: tokushu
+layout: post
+title: ffmpegでcrfを変えつつエンコードしてみる
 date: 2020-03-06
 ---
 
-## ffmpegでcrfを変えつつエンコードしてみる
-<br>
+## 元動画
+"20200214 金 mezaJK_kuji_tsutsumi.mp4" 26s 1440×810 (SAR4:3なので16:9で再生される)
 
-### 元動画
-"20200214 金 mezaJK_kuji_tsutsumi.mp4" 26s 1440×810 (SAR4:3なので16:9で再生される)<br>
 以下test.mp4とする。
-<br><br>
 
 
-### コマンド
+
+## コマンド
 <pre class="prettyprint">
 ffmpeg -i "%~1" -vf bwdif=1 -c:v libx264 -crf 20 -c:a copy -bsf:a aac_adtstoasc "%~dpn1-encoded-crf20.mp4"
 ffmpeg -i "%~1" -vf bwdif=1 -c:v libx264 -crf 23 -c:a copy -bsf:a aac_adtstoasc "%~dpn1-encoded-crf23.mp4"
@@ -26,14 +24,14 @@ ffmpeg -i "%~1" -vf bwdif=0 -c:v libx264 -crf 25 -c:a copy -bsf:a aac_adtstoasc 
 ffmpeg -i "%~1" -vf bwdif=0 -c:v libx264 -crf 28 -c:a copy -bsf:a aac_adtstoasc "%~dpn1-encoded-crf28-30fps.mp4"
 </pre>
 
-#### `-vf bwdif`
+### `-vf bwdif`
 インターレス解除フィルタ
 (Bob Weaver Deinterlacing Filter) <br>
 based on yadif with the use of w3fdif and cubic interpolation algorithms. It accepts the following parameters<br>
 [bwdif - ffmpeg](http://underpop.online.fr/f/ffmpeg/help/bwdif.htm.gz)<br><br>
 
 
-### 結果
+## 結果
 <table class="table table-striped">
 	<tr>
 		<th>名前</th>
@@ -112,7 +110,7 @@ based on yadif with the use of w3fdif and cubic interpolation algorithms. It acc
   </div>
   <br>
 
-### キャプチャ画像(※30fpsのみ)
+## キャプチャ画像(※30fpsのみ)
 0s ,1s. 15, 19s
   <!--4枚画像-->
 <div class="row img-padding">
@@ -168,6 +166,6 @@ crf28
 - Bandicamによるキャプチャ ffmpegで切り出したほうが良さそう
 <br><br>
 
-#### 評価
+### 評価
 もともとの動画がすでに`-crf 23`でエンコードされたものであり、おそらくcrf23より小さい`-crf 20`では無駄に容量やビットレートを割くことになってしまう。`-crf 25`ではなんとなく劣化を感じるような気もするけど微妙なラインである。`-crf 28`では劣化していると確信できるが僅かな劣化だと感じる。<br>
 また`-vf bwdif`に関して30fpsと60fpsの違いもわからないうえ、60fpsだと容量を割くだけなので`-vf bwdif=00`で良い事はわかった。<br><br>

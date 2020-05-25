@@ -1,11 +1,10 @@
 ---
-layout: item
-title: specials
+layout: post
+title: めざましテレビ
 date: 2020-04-13
 ---
-## めざましテレビ
 
-### メモ
+## メモ
 [2020.04] [リニューアル](https://kidokun153.github.io/specials/meza/renewal_2020-04.html) <br>
 [2020-04-06 Mon]「ごじてん」が阿部華也子キャスター1人で野外で担当することになる<br>
 [2020-04-10 Fri]めざましが2班に分かれ、金曜日は目覚ましどようびメンバーが担当する。「ごじてん」も谷尻萌キャスターが担当。<br>

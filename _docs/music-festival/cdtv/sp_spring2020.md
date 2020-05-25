@@ -1,10 +1,8 @@
 ---
-layout: item
-title: music-festival
+layout: post
+title: CDTVスペシャル！卒業ソング音楽祭2020
 date: 2020-02-25
 ---
-
-# CDTVスペシャル！卒業ソング音楽祭2020
 
 ## 番組概要
 [放送日時]2020年3月16日(月) 19:00~10:57 生放送<br>

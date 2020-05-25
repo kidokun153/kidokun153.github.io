@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: default
 title: movies
 date: 2020-02-25
 ---

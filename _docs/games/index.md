@@ -1,10 +1,10 @@
 ---
 layout: default
-title: games
+title: Games
 date: 2020-03-18
 ---
 [APEX](https://kidokun153.github.io/specials/apex-legends.html)
-[HS](https://kidokun153.github.io/specials/apex-legends.html)
+[HS](https://kidokun153.github.io/specials/hearthstone/index.html)
 
 <table class="table table-striped">
   <thead>
