@@ -8869,7 +8869,11 @@ dt::after{
   margin-left: 1rem;
 }
 
-
+/*h1のtopにマージンがいらない。このブログの場合*/
+h1{
+  margin-top: 0rem;
+  margin-bottom: 0.5rem;
+}
 
 h3 {
   /*線の種類（実線） 太さ 色*/

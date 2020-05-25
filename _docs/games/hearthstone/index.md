@@ -4,7 +4,7 @@ title: ハースストーン
 date: 2020-03-18
 ---
 
-##　フェニックス年(2020年)  <a href="https://kidokun153.github.io\games\hearthstone\phoenix\index.html"> 【メモ】 </a>
+<h2> フェニックス年(2020年)  <a href="https://kidokun153.github.io\games\hearthstone\phoenix\index.html"> 【メモ】 </a></h2>
 
 <table class="table table-striped">
   <thead>
