@@ -3,7 +3,7 @@ layout: default
 title: specials
 date: 2020-02-17
 ---
-<p></p>
+<br>
 
 [新型コロナウィルス](https://kidokun153.github.io/specials/covid-19)<br>
 [田中みな実写真集観測部](https://kidokun153.github.io/specials/sincerely-yours.html)<br>

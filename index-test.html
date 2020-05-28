@@ -73,44 +73,37 @@
     
     <main>
       <div class="container">
-        <div class="category">
-          <h1>post</h1> 
-          <ul>
-            {% for post in site.posts %}
-              <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-         <h1>post2</h1>
-        <!-- This loops through the paginated posts -->
-        {% for post in paginator.posts %}
-          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          <p class="author">
-            <span class="date">{{ post.date }}</span>
-          </p>
-          <div class="content">
-            {{ post.content }}
+        <div class="row">
+          <div class="col-md-4 img-padding">
+            <div class="card mb-4">
+              <img class="card-img-top" src="https://i.imgur.com/Rbqbyg8.png" alt="Thumbnail [100%x225]" style="width: 100%; display: block;">
+              <div class="card-body">
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              </div>
+            </div>
           </div>
-        {% endfor %}
-
-        <!-- Pagination links -->
-        <div class="pagination">
-          {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path }}" class="previous">
-              Previous
+          <div class="col-md-4 img-padding">
+            <div class="card mb-4 ">
+              <img class="card-img-top  img-thumbnail" src="https://i.imgur.com/4CvS5jy.jpg" alt="Thumbnail [100%x225]" style="width: 100%; display: block;">
+              <div class="card-body">
+                <h5 class="card-title">グータンヌーボ</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 img-padding">
+            <a href="https://kidokun153.github.io/archives/" style="color:#000000;text-decoration:none" class="card mb-4 ">
+              <img class="card-img-top  img-thumbnail" src="https://i.imgur.com/4CvS5jy.jpg" alt="Thumbnail [100%x225]" style="width: 100%; display: block;">
+              <div class="card-body">
+                <h5 class="card-title" >グータンヌーボ</h5>
+              </div>
             </a>
-          {% else %}
-            <span class="previous">Previous</span>
-          {% endif %}
-          <span class="page_number ">
-            Page: {{ paginator.page }} of {{ paginator.total_pages }}
-          </span>
-          {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-          {% else %}
-            <span class="next ">Next</span>
-          {% endif %}
+          </div>
+          <div class="col-md-4 img-padding">
+            <div class="card mb-4 ">
+              <img class="card-img-top  img-thumbnail" src="https://i.imgur.com/4CvS5jy.jpg" alt="Thumbnail [100%x225]" style="width: 100%; display: block;">
+              <div class="front_title">高坂穂乃果</div>
+            </div>
+          </div>
         </div>
       </div>
       

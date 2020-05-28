@@ -8838,7 +8838,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 /*# sourceMappingURL=bootstrap.css.map */
 
-/*-----------追加CSS----------------*/
+/*-----------追加CSS------------------------*/
 
 
 /*-----------日時----------------*/
@@ -8868,6 +8868,53 @@ dt::after{
 .date-space{
   margin-left: 1rem;
 }
+
+
+/*-----------card----------------*/
+/*
+.img-thumbnail {
+  padding: 4px;
+  line-height: 1.6;
+  background-color: #f5f8fa;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  transition: all .2s ease-in-out;
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+.front_title {
+    height: 30px;
+    font-size: 13px;
+    overflow: hidden;
+    line-height: 15px;
+    padding: 0 6px;
+    font-weight: 600;
+    margin: 5px 0;
+}
+
+*/
+
+
+.front_title {
+    height: 30px;
+    font-size: 13px;
+    overflow: hidden;
+    line-height: 15px;
+    padding: 0 6px;
+    font-weight: 600;
+    margin: 5px 0;
+}
+
+.card-title {
+  margin: 0;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
 
 /*h1のtopにマージンがいらない。このブログの場合*/
 h1{

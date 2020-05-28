@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tvdramas
+title: テレビドラマ
 date: 2020-02-25
 ---
 <table class="table table-striped">
