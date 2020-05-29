@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: テレビ番組
 date: 2020-05-29
 lastchange: 2020-05-29
