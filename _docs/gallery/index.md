@@ -21,6 +21,6 @@ date: 2020-02-21
 </div>
 <!--2020-02-21-->
 <div class="container padding-128px">
-    <h2>Bad Luck Kidokun</h2> 
+    <h2>Bad Luck Kun</h2> 
     <a href="https://imgur.com/4CvS5jy"><img class="img-fluid" src="https://i.imgur.com/4CvS5jy.jpg" title="source: imgur.com" /></a>
 </div>
