@@ -60,3 +60,7 @@ date: 2020-02-17
 - linksの廃止
 - specialの改造
 - index.html構想
+
+## v2.1.0(2020-05-29)
+- tvprogramsの設置
+
