@@ -5,8 +5,8 @@ date: 2020-02-17
 ---
 
 ## info
-- [情報収集](https://kidokun153.github.io/links/info)
-- [ショップ](https://kidokun153.github.io/links/shop)
+- [情報収集](https://kun153.github.io/links/info)
+- [ショップ](https://kun153.github.io/links/shop)
 
 ## 情報収集参考
 - [私のセキュリティ情報収集法を整理してみた（2020年版） - Fox on Security](https://foxsecurity.hatenablog.com/entry/2020/01/01/090000)

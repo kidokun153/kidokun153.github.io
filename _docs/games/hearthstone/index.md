@@ -4,7 +4,7 @@ title: ハースストーン
 date: 2020-03-18
 ---
 
-<h2> フェニックス年(2020年)  <a href="https://kidokun153.github.io\games\hearthstone\phoenix\index.html"> 【メモ】 </a></h2>
+<h2> フェニックス年(2020年)  <a href="https://kun153.github.io\games\hearthstone\phoenix\index.html"> 【メモ】 </a></h2>
 
 <table class="table table-striped">
   <thead>
@@ -20,7 +20,7 @@ date: 2020-03-18
       <td>2020年4月8日</td>
       <td><a href="https://playhearthstone.com/ja-jp/expansions-adventures/ashes-of-outland/">灰に舞う降魔の狩人</a></td>
       <td>エキスパンション</td>
-      <td><a href="https://kidokun153.github.io\games\hearthstone\phoenix\ashes-of-outland-review.md"> レビュー </a></td>
+      <td><a href="https://kun153.github.io\games\hearthstone\phoenix\ashes-of-outland-review.md"> レビュー </a></td>
     </tr>
   </tbody>
 </table>

@@ -17,10 +17,10 @@ date: 2020-02-17
 ---
 
 ## 時系列
-[新型コロナウィルス 2020年 2月](https://kidokun153.github.io/specials/covid-19/2020-02.html)<br>
-[新型コロナウィルス 2020年 3月](https://kidokun153.github.io/specials/covid-19/2020-03.html)<br>
-[新型コロナウィルス 2020年 4月](https://kidokun153.github.io/specials/covid-19/2020-04.html)<br>
-[新型コロナウィルス 2020年 5月](https://kidokun153.github.io/specials/covid-19/2020-05.html)<br>
+[新型コロナウィルス 2020年 2月](https://kun153.github.io/specials/covid-19/2020-02.html)<br>
+[新型コロナウィルス 2020年 3月](https://kun153.github.io/specials/covid-19/2020-03.html)<br>
+[新型コロナウィルス 2020年 4月](https://kun153.github.io/specials/covid-19/2020-04.html)<br>
+[新型コロナウィルス 2020年 5月](https://kun153.github.io/specials/covid-19/2020-05.html)<br>
 
 ## 「CORONA」
 ### あらすじ

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <!-- Required meta tags -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>{{ page.title }} - kidokun153</title>
+
+<!-- Bootstrap CSS -->
+  <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+<!-- Font Awesome -->
+<link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+
+</head>
+<body>
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" href="../">
+        kidokun153
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbar">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="../">Top <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://kidokun153.github.io/board">board</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://kidokun153.github.io/days">days</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://kidokun153.github.io/books">books</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://kidokun153.github.io/links">links</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://kidokun153.github.io/specials">specials</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://kidokun153.github.io/archives">archives</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<div class="container">
+  <div class="category">
+    <h1 id="inline">days </h1><a href="https://github.com/kidokun153/kidokun153.github.io/tree/master/days" role="button" class="btn btn-secondary"><i class="fab fa-github"></i> GitHub</a>
+  </div>
+  {{ content }}
+</div>
+     
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="../js/bootstrap.min.js"></script>
+
+</body>
+</html>
