@@ -8865,9 +8865,14 @@ dt::after{
   content: "："
 }
 
-.date-space{
+.date-space-left{
   margin-left: 1rem;
 }
+
+.date-space-right{
+  margin-right: 1rem;
+}
+
 
 
 /*-----------card----------------*/
