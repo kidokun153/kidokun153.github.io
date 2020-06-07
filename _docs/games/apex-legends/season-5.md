@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apex legends <br class="d-block.d-sm-none"> シーズン5 <br class="d-block.d-sm-none"> 運命の行く末
+title: Apex legends <br class="d-sm-none"> シーズン5 <br class="d-sm-none"> 運命の行く末
 date: 2020-05-13
 lastchange: 2020-05-26
 ---
