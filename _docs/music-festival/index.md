@@ -49,4 +49,11 @@ categories: music
       <td><a href="https://kun153.github.io/music-festival/music_station/20200403.html">ミュージックステーション 気分を上げたいときに聴きたい"アゲうた"3時間SP</a></td>
     </tr>
   </tbody>
+   <tbody>
+    <tr>
+      <td>5/30</td>
+      <td>日本テレビ</td>
+      <td><a href="https://kun153.github.io/music-festival/premium_music/2020-special.html">日テレ系音楽の祭典 Premium Music 2020 特別編</a></td>
+    </tr>
+  </tbody>
 </table>

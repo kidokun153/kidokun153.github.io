@@ -2,6 +2,7 @@
 layout: post
 title: CDTVスペシャル！卒業ソング音楽祭2020
 date: 2020-02-25
+lastchange: 2020-06-08
 ---
 
 ## 番組概要
