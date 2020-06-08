@@ -8850,6 +8850,7 @@ dl{
 }
 -*/
 
+/*--
 
 dt{
   float: left;
@@ -8860,6 +8861,8 @@ dd{
   float: left;
   text-align:right;
 }
+
+*/
 
 dt::after{
   content: "："
