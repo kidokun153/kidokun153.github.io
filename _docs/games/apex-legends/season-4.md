@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apex legends シーズン4 アシミレーション
+title: Apex legends <br class="d-lg-none"> シーズン4  <br class="d-sm-none">  アシミレーション
 date: 2020-03-16
 ---
 
