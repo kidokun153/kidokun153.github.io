@@ -22,8 +22,10 @@ lastchange: 2020-06-08
 20200207 [田中みな実写真集、「写真集ジャンル累積売上」で歴代TOP3入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2154836/)<br>
 20200214 [田中みな実1st写真集、「写真集」作品記録更新の9週連続総合TOP10入り【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2155318/)<br>
 20200228 [田中みな実1st写真集が歴代記録更新「写真集ジャンル歴代累積売上」の歴代1位に【オリコンランキング】 ｜ ORICON NEWS](https://www.oricon.co.jp/news/2156306/)<br>
-20200403 [田中みな実1st写真集が歴代記録更新　「写真集ジャンル歴代累積記録」で5週ぶり歴代1位返り咲き【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2158966/full/)
-<br>                                                                                                                   
+20200403 [田中みな実1st写真集が歴代記録更新　「写真集ジャンル歴代累積記録」で5週ぶり歴代1位返り咲き【オリコンランキング】 | ORICON NEWS](https://www.oricon.co.jp/news/2158966/full/)<br>
+20200516 [田中みな実「写真集」1位返り咲き　眼帯姿で「許さなーーーーい」ドラマ怪演が話題 | ORICON NEWS](https://www.oricon.co.jp/news/2162220/)<br>
+20200528 [田中みな実、“歴代最高”尽くしの44万部売上　上半期ランキング「写真集ジャンル」1位獲得に「これは、みんなの作品」 | ORICON NEWS](https://www.oricon.co.jp/news/2163133/)
+20200528 [【2020年 上半期本ランキング】史上初『鬼滅の刃』BOOK＆コミック同時1位　コミック1～19位独占＆全て200万部超えの快挙 | ORICON NEWS](https://www.oricon.co.jp/special/54719/#:~:text=%E6%9C%AC%E6%97%A528%E6%97%A5%E3%81%AB%E7%99%BA%E8%A1%A8,%E3%81%A8%E3%81%84%E3%81%86%E5%BF%AB%E6%8C%99%E3%82%92%E6%88%90%E3%81%97%E9%81%82%E3%81%92%E3%81%9F%E3%80%82)
 
 ## 売上
 <table  class="table table-striped">
