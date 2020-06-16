@@ -28,7 +28,7 @@ https://kun153.github.io
 
 <!--2枚画像-->
   <div class="row img-padding">
-    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src=" alt="" title=""></div>
+    <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="" alt="" title=""></div>
     <div class="col-lg-4 col-sm-6"><img  class="img-fluid" src="" alt="" title=""></div>
     <div class="col-lg-4"></div>
   </div>
