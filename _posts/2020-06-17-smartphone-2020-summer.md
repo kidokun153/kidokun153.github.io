@@ -16,13 +16,13 @@ lastchange: 2020-06-21
 - 快適なブラウジング
 
 ## 気になっていたスマホ ()内は2020年6月17日時点のAmazon価格
-- OPPO A5 2020 22,000
-- Xiaomi Redmi Note9S 24.800
-- HUAWEI P30 Lite 28,200
-- OPPO Reno A 34,010
-- SHARP  AQUOS sense3 ブラック 34,000
-- OPPO Reno A 34,006
-- Google Pixel 3a　36,200
+- OPPO A5 2020 (22,000)
+- Xiaomi Redmi Note9S (24.800)
+- HUAWEI P30 Lite (28,200)
+- OPPO Reno A (34,010)
+- SHARP  AQUOS sense3 ブラック (34,000)
+- OPPO Reno A (34,006)
+- Google Pixel 3a (36,200)
 
 ## 結論 - Xiaomi Redmi Note9Sを買う
 当初は評判のいいOPPO Reno Aを買おうと考えていた。気になったのはColorOSという独自OSだ。AndroidOSをカスタムしたものだがAndroidOSと大して変わらないようである。他のスペックは申し分なく良さそうであった。
