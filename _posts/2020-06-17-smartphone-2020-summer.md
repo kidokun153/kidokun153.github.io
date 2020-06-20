@@ -2,6 +2,7 @@
 layout: post
 title: なんの携帯買うの2020夏
 date: 2020-06-17
+lastchange: 2020-06-21
 ---
 
 ## はじめに
