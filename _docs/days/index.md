@@ -2,6 +2,7 @@
 layout: default
 title: days
 date: 2020-05-10
+lastchange: 2020-06-22
 ---
 
 [2020-02-25]準備中<br>
@@ -25,3 +26,7 @@ date: 2020-05-10
 [week22-0524](https://kun153.github.io/days/2020/week22-0524)<br>
 [week23-0531](https://kun153.github.io/days/2020/week23-0531)<br>
 [week24-0607](https://kun153.github.io/days/2020/week24-0607)<br>
+[week25-0614](https://kun153.github.io/days/2020/week25-0614)<br>
+[week26-0621](https://kun153.github.io/days/2020/week26-0621)<br>
+
+
