@@ -2,9 +2,8 @@
 layout: default
 title: Games
 date: 2020-03-18
+lastchange: 2020-06-22
 ---
-[APEX](https://kun153.github.io/specials/apex-legends.html)
-[HS](https://kun153.github.io/specials/hearthstone/index.html)
 
 <table class="table table-striped">
   <thead>
