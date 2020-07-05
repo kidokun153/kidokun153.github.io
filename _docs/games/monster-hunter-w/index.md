@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: post
 title: モンスターハンターワールド
 date: 2020-04-25
 ---
