@@ -56,4 +56,11 @@ categories: music
       <td><a href="https://kun153.github.io/music-festival/premium_music/2020-special.html">日テレ系音楽の祭典 Premium Music 2020 特別編</a></td>
     </tr>
   </tbody>
+     <tbody>
+    <tr>
+      <td>6/24</td>
+      <td>テレビ東京</td>
+      <td>テレ東音楽祭2020夏</td>
+    </tr>
+  </tbody>
 </table>
