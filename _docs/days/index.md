@@ -28,6 +28,6 @@ lastchange: 2020-07-05
 [week24-0607](https://kun153.github.io/days/2020/week24-0607)<br>
 [week25-0614](https://kun153.github.io/days/2020/week25-0614)<br>
 [week26-0621](https://kun153.github.io/days/2020/week26-0621)<br>
-[week27-0627](https://kun153.github.io/days/2020/week27-0627)<br>
+[week27-0628](https://kun153.github.io/days/2020/week27-0628)<br>
 
 
