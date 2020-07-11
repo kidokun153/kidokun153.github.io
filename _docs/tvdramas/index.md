@@ -24,7 +24,7 @@ lastchange: 2020-06-20
     <tbody>
     <tr>
       <td>2020年春</td>
-      <td><a href="https://www.tv-asahi.co.jp/m-ayumasa/">Ｍ　愛すべき人がいて</a></td>
+      <td><a href="https://www.tv-asahi.co.jp/m-ayumasa/">Ｍ 愛すべき人がいて</a></td>
       <td>視聴中</td>
       <td>abema</td>
     </tr>
