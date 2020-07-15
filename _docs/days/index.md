@@ -6,8 +6,8 @@ lastchange: 2020-07-05
 ---
 
 [2020-02-25]準備中<br>
-[2020-04-30]2020week17からパスを変える
-[2020-05-25]形式が変わってしまったので記事側の変更もしない。
+[2020-04-30]2020week17からパスを変える。いずれ全部移行したい。<br>
+[2020-05-25]形式が変わってしまったので記事側の変更もしないと。<br>
 ## 2020
 [2020m2w3_2020W8](https://kun153.github.io/days/2020m2w3_2020W8)<br>
 [2020m2w4_2020W9](https://kun153.github.io/days/2020m2w4_2020W9)<br>
@@ -29,5 +29,6 @@ lastchange: 2020-07-05
 [week25-0614](https://kun153.github.io/days/2020/week25-0614)<br>
 [week26-0621](https://kun153.github.io/days/2020/week26-0621)<br>
 [week27-0628](https://kun153.github.io/days/2020/week27-0628)<br>
+[week28-0705](https://kun153.github.io/days/2020/week28-0705)<br>
 
 
