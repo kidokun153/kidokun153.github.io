@@ -7,6 +7,10 @@ URL:https://kun153.github.io
 
 "Umi" は "Honoka"を元にした日本語も美しく表示できるBootstrapテーマです。
 
+## jekyll
+
+URL:http://127.0.0.1:4000/
+
 ## 文法
 
 ### 画像の載せ方
@@ -75,6 +79,10 @@ lastchange : 2017-08-13
 categories: writing
 ---
 ```
+
+### pタグ(空行)挿入
+
+<br>
 
 ## 改訂履歴
 
