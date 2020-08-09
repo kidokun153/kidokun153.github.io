@@ -17,10 +17,18 @@ date: 2020-03-18
   </thead>
   <tbody>
     <tr>
-      <td>2020年4月8日</td>
+      <td>2020-04-08</td>
       <td><a href="https://playhearthstone.com/ja-jp/expansions-adventures/ashes-of-outland/">灰に舞う降魔の狩人</a></td>
       <td>エキスパンション</td>
-      <td><a href="https://kun153.github.io\games\hearthstone\phoenix\ashes-of-outland-review.md"> レビュー </a></td>
+      <td><a href="https://kun153.github.io\games\hearthstone\phoenix\ashes-of-outland-review.html"> レビュー </a></td>
+    </tr>
+  </tbody>
+   <tbody>
+    <tr>
+      <td>2020-08-07</td>
+      <td><a href="https://playhearthstone.com/ja-jp/expansions-adventures/scholomance-academy/">魔法学院スクロマンス</a></td>
+      <td>エキスパンション</td>
+      <td><a href="./scholomance-academy.html"> レビュー </a></td>
     </tr>
   </tbody>
 </table>
