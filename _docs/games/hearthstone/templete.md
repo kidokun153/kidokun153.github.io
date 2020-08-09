@@ -142,3 +142,12 @@ date: 2020-03-28
 ###
 ###
 ---
+
+<span style="font-size: 200%">sample text</span>
+
+<span style="font-size: 200%">★★★★★</span><br>
+<span style="font-size: 200%">★★★★</span><br>
+<span style="font-size: 200%">★★★</span><br>
+<span style="font-size: 200%">★★</span><br>
+<span style="font-size: 200%">★</span><br>
+---
