@@ -28,7 +28,7 @@ date: 2020-03-18
       <td>2020-08-07</td>
       <td><a href="https://playhearthstone.com/ja-jp/expansions-adventures/scholomance-academy/">魔法学院スクロマンス</a></td>
       <td>エキスパンション</td>
-      <td><a href="./scholomance-academy-review.html"> レビュー </a></td>
+      <td><a href="./phoenix/scholomance-academy-review.html"> レビュー </a></td>
     </tr>
   </tbody>
 </table>
