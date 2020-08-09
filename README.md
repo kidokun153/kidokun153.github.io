@@ -154,3 +154,6 @@ categories: writing
 ### v3.1.0(2020-06-20)
 - archive廃止 → READEMEに移動
 - links廃止 → pocketに移動
+
+### v3.1.1(2020-07-30)
+- navbarのリンクを相対パスにしてみる
