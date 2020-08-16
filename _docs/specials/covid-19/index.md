@@ -14,15 +14,16 @@ lastchange: 2020-07-10
 - [新型コロナウイルス感染症について（県民のみなさま、医療機関・事業者の方への注意喚起） - 福岡県庁ホームページ](http://www.pref.fukuoka.lg.jp/contents/bukan.html)<br>
 - [2019-nCoVについてのメモとリンク](http://minato.sip21c.org/2019-nCoV-im3r.html)<br>
 - [新型コロナウイルスの国別感染者数（中国以外） ｜ Flourish](https://public.flourish.studio/visualisation/1438279/)<br>
-- [都内の最新感染動向 | 東京都 新型コロナウイルス感染症対策サイト](https://stopcovid19.metro.tokyo.lg.jp/)<br>
+- [都内の最新感染動向  ｜ 東京都 新型コロナウイルス感染症対策サイト](https://stopcovid19.metro.tokyo.lg.jp/)<br>
+
 ---
 
 ## 時系列
-[新型コロナウィルス 2020年 2月](https://kun153.github.io/specials/covid-19/2020-02.html)<br>
-[新型コロナウィルス 2020年 3月](https://kun153.github.io/specials/covid-19/2020-03.html)<br>
-[新型コロナウィルス 2020年 4月](https://kun153.github.io/specials/covid-19/2020-04.html)<br>
-[新型コロナウィルス 2020年 5月](https://kun153.github.io/specials/covid-19/2020-05.html)<br>
-[新型コロナウィルス 2020年 6月](https://kun153.github.io/specials/covid-19/2020-06.html)<br>
+[新型コロナウィルス 2020年 2月](./2020-02.html)<br>
+[新型コロナウィルス 2020年 3月](./2020-03.html)<br>
+[新型コロナウィルス 2020年 4月](./2020-04.html)<br>
+[新型コロナウィルス 2020年 5月](./2020-05.html)<br>
+[新型コロナウィルス 2020年 6月](./2020-06.html)<br>
 
 ## 「CORONA」
 ### あらすじ
