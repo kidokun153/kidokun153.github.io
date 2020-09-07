@@ -3,7 +3,7 @@ layout: default
 title: anime
 date: 2020-02-25
 ---
-[2020-02-25]準備中
+
 <table class="table table-striped">
   <thead>
     <tr>

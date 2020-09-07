@@ -3,7 +3,7 @@ layout: default
 title: movies
 date: 2020-02-25
 ---
-[2020-02-25]準備中
+
 
 ## 2020
 <table class="table table-striped">

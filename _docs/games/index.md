@@ -2,7 +2,7 @@
 layout: default
 title: Games
 date: 2020-03-18
-lastchange: 2020-06-22
+lastchange: 2020-08-24
 ---
 
 <table class="table table-striped">
@@ -18,7 +18,7 @@ lastchange: 2020-06-22
     <tr>
       <td>2017年12月</td>
       <td><a href="https://playhearthstone.com/ja-jp/?">ハースストーン</a>
-       <a href="https://kun153.github.io/games/hearthstone/index.html">【メモ】</a>
+       <a href="./hearthstone/index.html">【メモ】</a>
       </td>
       <td>そこそこプレイ中</td>
       <td>PC</td>
@@ -28,7 +28,7 @@ lastchange: 2020-06-22
     <tr>
       <td>2019年2月</td>
       <td><a href="https://www.ea.com/ja-jp/games/apex-legends">エーペックスレジェンズ </a>
-       <a href="https://kun153.github.io/games/apex-legends/index.html">【メモ】</a>
+       <a href="./apex-legends/index.html">【メモ】</a>
       </td>
       <td>割とプレイ中</td>
       <td>PS4</td>
