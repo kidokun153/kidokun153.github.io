@@ -16,7 +16,7 @@ lastchange: 2020-08-25
   <tbody>
     <tr>
       <td>2020年冬</td>
-      <td><a href="https://www.tv-asahi.co.jp/alibi/">アリバイ崩し承ります</a></td>
+      <td>アリバイ崩し承ります</td>
       <td>★★★★</td>
       <td>Tver</td>
     </tr>
@@ -24,7 +24,7 @@ lastchange: 2020-08-25
     <tbody>
     <tr>
       <td>2020年春</td>
-      <td><a href="https://www.tv-asahi.co.jp/m-ayumasa/">Ｍ 愛すべき人がいて</a></td>
+      <td>Ｍ 愛すべき人がいて</td>
       <td>視聴中</td>
       <td>abema</td>
     </tr>
@@ -32,7 +32,7 @@ lastchange: 2020-08-25
    <tbody>
     <tr>
       <td>2020年春</td>
-      <td><a href="https://www.ytv.co.jp/guilty/">ギルティ ～この恋は罪ですか？～</a></td>
+      <td>ギルティ ～この恋は罪ですか？～</td>
       <td>視聴中</td>
       <td>Tver</td>
     </tr>
@@ -40,9 +40,17 @@ lastchange: 2020-08-25
   <tbody>
     <tr>
       <td>2020年7月</td>
-      <td><a href="https://www.tv-asahi.co.jp/douga/holidaylove">ホリデイラブ(2018年1月〜3月)</a></td>
+      <td>ホリデイラブ</td>
       <td>★★★★</td>
       <td>Tver</td>
+    </tr>
+  </tbody>
+    <tbody>
+    <tr>
+      <td>2020年9月</td>
+      <td><a href="./the-boys">ザ・ボーイズ シーズン1</a></td>
+      <td>★★★★</td>
+      <td>primevideo</td>
     </tr>
   </tbody>
 </table>
