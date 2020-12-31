@@ -16,7 +16,7 @@ lastchange: 2020-08-24
   </thead>
   <tbody>
     <tr>
-      <td>2017年12月</td>
+      <td>2017年11月~</td>
       <td><a href="https://playhearthstone.com/ja-jp/?">ハースストーン</a>
        <a href="./hearthstone/index.html">【メモ】</a>
       </td>
@@ -26,7 +26,7 @@ lastchange: 2020-08-24
   </tbody>
   <tbody>
     <tr>
-      <td>2019年2月</td>
+      <td>2019年2月~</td>
       <td><a href="https://www.ea.com/ja-jp/games/apex-legends">エーペックスレジェンズ </a>
        <a href="./apex-legends/index.html">【メモ】</a>
       </td>
@@ -36,7 +36,7 @@ lastchange: 2020-08-24
   </tbody>
   <tbody>
     <tr>
-      <td>2017年10月</td>
+      <td>2017年10月~</td>
       <td><a href="https://taikops4-ses.taiko-ch.net/">太鼓の達人 セッションでドドンがドン</a></td>
       <td>あまりプレイしていない</td>
       <td>PS4</td>

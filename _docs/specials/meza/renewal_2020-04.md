@@ -2,8 +2,11 @@
 layout: post
 title: 2020.4 めざましテレビ番組リニューアル
 date: 2020-04-17
-lastchange: 2020-08-16
+lastchange: 2020-09-27
 ---
+
+## メンバー
+[スクリーンショット](./family_2020-04.png)
 
 ## 「ごじ天」パネルのデザイン
 <p><img  class="img-fluid" src="https://i.imgur.com/tOeWMjF.png" alt="Image"></p>
